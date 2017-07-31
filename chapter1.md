@@ -1,4 +1,4 @@
-# First Chapter
+# 비트코인\(Bitcoin\)이란?
 
 2008년 11월 1일 사토시 나카모토\(Satoshi Nakamoto\)라는 가명의 인물이 [암호학 메일링 리스트](http://satoshi.nakamotoinstitute.org/emails/cryptography/1/#selection-14.11-51.41)를 통해[ "비트코인: P2P 전자화폐 시스템 \(Bitcoin: A Peer-to-Peer Electronic Cash System\)"](http://www.bitcoin.org/bitcoin.pdf)이라는 제목의 백서 공개. 이후 메일링 리스트에 포함되어 있던 다른 사람들과 [지속적으로 의견을 교류](http://satoshi.nakamotoinstitute.org/emails/cryptography/)하고 이 2009년 1월 9일 [비트코인 버전 0.1을 출시](http://satoshi.nakamotoinstitute.org/emails/cryptography/16/#selection-19.39-23.43)하였음.
 
@@ -19,15 +19,11 @@
 
 블록체인은 비허가성\(permission-less\) 분산화\(decentralized\) 장부로서 기존의 단일 중앙 데이터베이스에서는 발생하지 않는 문제들이 중요하게 대두된다.
 
-특히 "누가 장부를 작성할 것인가?"에 대한 참가자들간의 합의가 필요한데 이러한 합의에 도달하는 방식을 합의 메커니즘\(consensus mechanism\)이라 한다. 
+특히 "누가 장부를 작성할 것인가?"에 대한 참가자들간의 합의가 필요한데 이러한 합의에 도달하는 방식을 합의 메커니즘\(consensus mechanism\)이라 한다.
 
 #### \(토큰으로서의\) 비트코인이란?
 
-
-
 #### 비트코인 네트워크란?
-
-
 
 
 
