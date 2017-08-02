@@ -6,6 +6,8 @@
 * [허가성 블록체인\(permissioned blockchain\)](d5c8-ac00-c131-be14-b85d-ccb4-c77828-permissioned-blockchain.md)
 * [2부](2bd80.md)
 * [금융과 블록체인](ae08-c735-acfc-be14-b85d-ccb4-c778.md)
+* [블록체인을 통한 투명하고 공정한 정부행정](be14-b85d-ccb4-c778-c744-d1b5-d55c-d22c-ba85-d558-ace0-acf5-c815-d55c-c815-bd80-d589-c815.md)
 * [IoT와 블록체인](iotc640-be14-b85d-ccb4-c778.md)
-* [블록체인으로 인한 비즈니스 모델 혁신과 기업구조의 변화](be14-b85d-ccb4-c778-c73c-b85c-c778-d55c-be44-c988-b2c8-c2a4-baa8-b378-d601-c2e0-acfc-ae30-c5c5-ad6c-c870-c758-bcc0-d654.md)
+* [의료와 블록체인](c758-b8cc-c640-be14-b85d-ccb4-c778.md)
+* [Resources](resources.md)
 

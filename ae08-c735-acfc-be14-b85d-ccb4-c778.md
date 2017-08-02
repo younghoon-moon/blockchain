@@ -1,3 +1,5 @@
+# 금융과 블록체인
+
 ### 현재 금융의 문제점
 
 counter-party risk
@@ -30,7 +32,7 @@ Areas
 
 venture capital, identity and reputation, moving value \(payments and remittances\), storing value \(savings\), lending and borrowing \(credit\), trading value \(marketplaces like stock exchanges\), insurance and risk management, and audit and tax functions.
 
-Projects 소개
+### 금융에 블록체인을 적용시키려는 다양한 시도들
 
 Bitcoin
 
@@ -45,4 +47,6 @@ the DAO
 Iconomi, Melonport
 
 Numerai
+
+Factom
 
