@@ -12,7 +12,7 @@
 
 #### 1.3. 데이터 익명성\(data privacy\)
 
-비트코인 거래를 위해서는 [160비트의 비트코인 주소값](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)을 가명\(pseudonym\)으로 사용한다. 하지만 2009년 비트코인이 처음 동작한 시점부터 모든 거래내역이 누구나 볼 수 있도록 블록체인 상에 기록되어 있어 누군가 나의 주소값을 알고 있다면 나의 비트코인 모든 거래내역을 쉽게 파악할 수 있다. 실제로 이러한 비트코인의 투명성\(transparency\)을 활용하여 전 세계의 법 집행기관\(law enforcement agency\)들은 서로 협력하여 다크 웹\(dark web\) 상의 불법 거래소인 [알파베이\(AlphaBay\)](https://bitcoinmagazine.com/articles/alphabay-shut-down-law-enforcement-admin-commits-suicide-jail/)와 [한사마켓\(Hansa Market\)](https://bitcoinmagazine.com/articles/hansa-market-taken-down-global-law-enforcement-operation/)을 
+비트코인 거래를 위해서는 [160비트의 비트코인 주소값](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)을 가명\(pseudonym\)으로 사용한다. 하지만 2009년 비트코인이 처음 동작한 시점부터 모든 거래내역이 누구나 볼 수 있도록 블록체인 상에 기록되어 있어 누군가 나의 주소값을 알고 있다면 나의 비트코인 모든 거래내역을 쉽게 파악할 수 있다. 실제로 이러한 비트코인의 투명성\(transparency\)을 활용하여 전 세계의 법 집행기관\(law enforcement agency\)들은 서로 협력하여 다크 웹\(dark web\) 상의 불법 거래소인 [알파베이\(AlphaBay\)](https://bitcoinmagazine.com/articles/alphabay-shut-down-law-enforcement-admin-commits-suicide-jail/)와 [한사마켓\(Hansa Market\)](https://bitcoinmagazine.com/articles/hansa-market-taken-down-global-law-enforcement-operation/)을 추적하여 불법거래 관련자들을 검거할 수 있었다. 
 
 ### 다양한 허가성 블록체인
 
