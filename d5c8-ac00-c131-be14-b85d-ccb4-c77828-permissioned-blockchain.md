@@ -10,9 +10,11 @@
 
 일례로 2017년 8월 1일, 비트코인은 기존의 비트코인\(Bitcoin\)과 비트코인 캐시\(Bitcoin Cash\)라는 두 가지 종류의 비트코인으로 분기\(fork\)되었다. 분기의 가장 큰 이유는 비트코인의 블록크기\(block size\)에 대한 의견대립이었다. 2017년 8월 1일 전까지 비트코인은 블록의 크기가 1MB로 제한되어있었는데 비트코인 코어\(Core\) 개발자들을 중심으로 한 집단은 블록의 크기가 커질수록 네트워크의 대기시간\(latency\)이 길어져 비트코인 네트워크가 중앙화\(centralization\) 된다고 주장하며 블록크기의 증가를 반대했었다. 반면 중국의 채굴자\(miner\)를 중심으로 한 다른 집단은 확장성 문제를 해결하기 위해서는 비트코인의 블록크기를 증가시켜야 한다고 주장하며 비트코인을 분기시켜 비트코인 캐시\(Bitcoin Cash\)를 만들기에 이르렀다.
 
+다른 하나의 대표적인 예는 이더리움\(Ethereum\)과 이더리움 클래식\(Ethereum Classic\)이 있다. 
+
 #### 1.3. 데이터 익명성\(data privacy\)
 
-비트코인 거래를 위해서는 [160비트의 비트코인 주소값](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)을 가명\(pseudonym\)으로 사용한다. 하지만 2009년 비트코인이 처음 동작한 시점부터 모든 거래내역이 누구나 볼 수 있도록 블록체인 상에 기록되어 있어 누군가 나의 주소값을 알고 있다면 나의 비트코인 모든 거래내역을 쉽게 파악할 수 있다. 실제로 이러한 비트코인의 투명성\(transparency\)을 활용하여 전 세계의 법 집행기관\(law enforcement agency\)들은 서로 협력하여 다크 웹\(dark web\) 상의 불법 거래소인 [알파베이\(AlphaBay\)](https://bitcoinmagazine.com/articles/alphabay-shut-down-law-enforcement-admin-commits-suicide-jail/)와 [한사마켓\(Hansa Market\)](https://bitcoinmagazine.com/articles/hansa-market-taken-down-global-law-enforcement-operation/)을 추적하여 불법거래 관련자들을 검거할 수 있었다. 따라서 자신들의 거래내역을 공개하기를 원하지 않는 기업의 경우 비트코인, 이더리움과 같은 개방형 블록체인은 한계가 있을 수 밖에 없다. 
+비트코인 거래를 위해서는 [160비트의 비트코인 주소값](https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses)을 가명\(pseudonym\)으로 사용한다. 하지만 2009년 비트코인이 처음 동작한 시점부터 모든 거래내역이 누구나 볼 수 있도록 블록체인 상에 기록되어 있어 누군가 나의 주소값을 알고 있다면 나의 비트코인 모든 거래내역을 쉽게 파악할 수 있다. 실제로 이러한 비트코인의 투명성\(transparency\)을 활용하여 전 세계의 법 집행기관\(law enforcement agency\)들은 서로 협력하여 다크 웹\(dark web\) 상의 불법 거래소인 [알파베이\(AlphaBay\)](https://bitcoinmagazine.com/articles/alphabay-shut-down-law-enforcement-admin-commits-suicide-jail/)와 [한사마켓\(Hansa Market\)](https://bitcoinmagazine.com/articles/hansa-market-taken-down-global-law-enforcement-operation/)을 추적하여 불법거래 관련자들을 검거할 수 있었다. 따라서 자신들의 거래내역을 공개하기를 원하지 않는 기업의 경우 비트코인, 이더리움과 같은 개방형 블록체인은 한계가 있을 수 밖에 없다.
 
 ### 다양한 허가성 블록체인
 
