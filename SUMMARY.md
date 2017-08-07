@@ -9,5 +9,6 @@
   * [정부행정과 블록체인](be14-b85d-ccb4-c778-c744-d1b5-d55c-d22c-ba85-d558-ace0-acf5-c815-d55c-c815-bd80-d589-c815.md)
   * [IoT와 블록체인](iotc640-be14-b85d-ccb4-c778.md)
   * [의료와 블록체인](c758-b8cc-c640-be14-b85d-ccb4-c778.md)
+  * [기업구조와 블록체인](ae30-c5c5-ad6c-c870-c640-be14-b85d-ccb4-c778.md)
 * [Resources](resources.md)
 
