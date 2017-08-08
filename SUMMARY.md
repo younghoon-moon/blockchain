@@ -10,5 +10,7 @@
   * [IoT와 블록체인](iotc640-be14-b85d-ccb4-c778.md)
   * [의료와 블록체인](c758-b8cc-c640-be14-b85d-ccb4-c778.md)
   * [기업구조와 블록체인](ae30-c5c5-ad6c-c870-c640-be14-b85d-ccb4-c778.md)
+* [3부](3bd80.md)
+  * [규제동향](3bd80/addc-c81c-b3d9-d5a5.md)
 * [Resources](resources.md)
 
