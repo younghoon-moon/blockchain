@@ -20,7 +20,7 @@ The New York–based venture capital firm Union Square Ventures \(USV\) [broaden
 
 ### 블록체인이 적용될 다양한 금융의 분야
 
-* **화폐 \(currency\)**: 현재 각 국가의 중앙은행의 신뢰를 바탕으로 발행되는 법정화폐\(fiat currency\)는 많은 문제점을 앉고 있다. 비트코인 또한 2007년 금융위기 이후 처음 세상에 알려졌는데 당시에는 많은 사람들이 미 정부의 구제금융\(bailout\)을 비판하며 월스트리트 점령운동\(Occupy Wall Street\)을 진행하고 있을 때였다. 비트코인 출시 초기, 사이퍼 펑크\(cypherpunk\)를 포함한 [무정부주의자\(anarchist\)](https://ko.wikipedia.org/wiki/%EC%95%84%EB%82%98%ED%82%A4%EC%A6%98) 및 [자유주의자\(Libertarian\)](https://ko.wikipedia.org/wiki/%EC%9E%90%EC%9C%A0%EC%A7%80%EC%83%81%EC%A3%BC%EC%9D%98)들은 발행량이 한정되어 있고 중앙기관이 통제하지 못하는 비트코인의 분산화\(decentralization\)에 큰 매력을 느꼈다. 베네수엘라의 높은 인플레이션, 미국과 중국간의 화폐전쟁, 유로존 위기, ISIS와 중동의 국가 존폐 리스크, 아프리카의 총체적 난국
+* **화폐 \(currency\)**: 현재 각 국가의 중앙은행의 신뢰를 바탕으로 발행되는 법정화폐\(fiat currency\)는 많은 문제점을 앉고 있다. 비트코인은 2008금융위기 이후 처음 세상에 알려졌는데 당시에는 많은 사람들이 미 정부의 구제금융\(bailout\)을 비판하며 월스트리트 점령운동\(Occupy Wall Street\)을 진행하고 있을 때였다. 비트코인은 [사이퍼 펑크\(cypherpunk\)](https://en.wikipedia.org/wiki/Cypherpunk)를 포함한 [무정부주의자\(anarchist\)](https://ko.wikipedia.org/wiki/아나키즘) 및 [자유주의자\(Libertarian\)](https://ko.wikipedia.org/wiki/자유지상주의)들의 열렬한 지지를 받았는데 그들은 발행량이 한정되어 있고 중앙기관이 통제 및 검열하지 못하도록 분산화\(decentralization\)된 비트코인에 큰 매력을 느꼈다. 이외에도 국가 기반의 화폐 시스템은 많은 문제를 가지고 있다. 예를 들어 베네수엘라에서는 현재 커피 한 잔에 26만원이나 할 정도로 [700%가 넘는 살인적인 인플레이션\(2017년 예상\)](http://premium.mk.co.kr/view.php?no=19409)을 기록하고 있으며 유로존에서는 그리스 경제위기, 이탈리아와 스페인의 재정건정성에 대한 불안감, 브렉시트\(Brexit\)와 함께 시리아 난민의 처리 문제 등의 경제 및 지정학적 요인에 의해 통화 시스템 자체가 흔들리고 있는 실정이다.     미국과 중국간의 화폐전쟁, 유로존 위기, ISIS와 중동의 국가 존폐 리스크, 아프리카의 총체적 난국
 * 가치의 이동 - 결제 및 해외송금 등 \(moving value - payments and remittances\): 웨스턴유니언\(Western Union\) 송금 수수료, 지나치게 복잡한 절차
 * 가치의 거래 \(trading value: marketplaces like stock exchanges\)
 * 가치의 저장 & 저축\(storing value & savings\)
