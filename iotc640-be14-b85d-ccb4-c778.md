@@ -54,7 +54,7 @@ IOTA
 
 slock.it
 
-share&charge
+Share & Charge
 
 Hyperledger
 
