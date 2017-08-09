@@ -38,17 +38,13 @@ The New York–based venture capital firm Union Square Ventures \(USV\) [broaden
 * 가치의 저장 & 저축\(storing value & savings\)
 * 대출 \(lending and borrowing & credit\)
 
-#### 자금확보\(Fund raising\)와 벤처캐피탈\(Venture Capital\)
+#### 자금유치\(Fund raising\)와 벤처캐피탈\(Venture Capital\)
 
-블록체인은 기업들의 비즈니스 모델뿐 아니라 자금확보 메커니즘까지 완전하게 바꾸어 놓았다. 
+블록체인은 기업들의 비즈니스 모델뿐 아니라 자금확보의 방식까지 완전하게 바꾸어 놓았다. 블록체인 기반의 기업들은 주로 스위스에 재단\(foundation\)을 두고 자신의 서비스를 사용할 수 있는 토큰\(token\)을 발행하는 ICO\(Initial Coin Offering\)을 진행한다. 기업공개\(IPO: Initial Public Offering\)와는 다르게 암호화 화폐를 보유하고 있는 사람이면 누구나 투자할 수 있으며 투자자들은 일정량의 토큰을 투자에 댓가로 받게된다. 테조스\(Tezos\), EOS, 
 
 IPO vs. ICO
 
-
-
 신원 및 명성관리\(identity and reputation management\)
-
-
 
 * 보험 및 리스크 관리\(insurance and risk management\)
 * 회계\(accounting\)
