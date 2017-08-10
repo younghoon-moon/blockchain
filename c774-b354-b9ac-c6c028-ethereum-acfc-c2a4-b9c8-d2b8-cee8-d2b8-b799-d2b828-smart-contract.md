@@ -12,5 +12,5 @@
 
 ### 분산 어플리케이션\(dapp: decentralized applications\)이란?
 
-분산 어플리케이션 
+분산 어플리케이션
 
