@@ -15,3 +15,7 @@ MME
 
 
 
+[jurisdictional competition](https://en.wikipedia.org/wiki/Jurisdictional_arbitrage), Zug, Crypto Valley
+
+http://avc.com/2017/07/jurisdictional-competition/
+
