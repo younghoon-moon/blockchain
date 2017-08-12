@@ -79,6 +79,8 @@ the DAO
 
 Melonport
 
+ubitquity \(real estate\)
+
 Numerai
 
 Factom
