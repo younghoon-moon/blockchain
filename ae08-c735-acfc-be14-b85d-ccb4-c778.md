@@ -59,6 +59,8 @@ Bitcoin
 
 ABRA
 
+aeternity
+
 Ripple, Stellar, Dash
 
 ZCash, Monero
