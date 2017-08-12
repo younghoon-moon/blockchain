@@ -57,6 +57,8 @@ IPO vs. ICO
 
 Bitcoin
 
+ABRA
+
 Ripple, Stellar, Dash
 
 ZCash, Monero
@@ -69,11 +71,9 @@ Ethereum
 
 the DAO
 
-**ICONOMI** 
+**ICONOMI**
 
-이더리움 블록체인 기반의 디지털 자산관리 플랫폼으로서 DAA\(Digital Asset Arrays\)라 불리는 디지털 자산의 전략 및 포트폴리오를 운용\(manage\)하는 매니저와 DAA에 투자하는 투자자들을 매칭시켜주는 플랫폼이다. 슬로베니아에 기반을 두고 있으며 2016년 10월 [ICO를 통해 약 1,050만달러의 자금을 유치](https://www.cryptocoinsnews.com/ethereum-based-iconomi-raises-10-5-million-ico/)하였다. 기존의 자산운용사\(asset management\)들을 분산화시키려는 시도이다. 
-
-
+이더리움 블록체인 기반의 디지털 자산관리 플랫폼으로서 DAA\(Digital Asset Arrays\)라 불리는 디지털 자산의 전략 및 포트폴리오를 운용\(manage\)하는 매니저와 DAA에 투자하는 투자자들을 매칭시켜주는 플랫폼이다. 슬로베니아에 기반을 두고 있으며 2016년 10월 [ICO를 통해 약 1,050만달러의 자금을 유치](https://www.cryptocoinsnews.com/ethereum-based-iconomi-raises-10-5-million-ico/)하였다. 기존의 자산운용사\(asset management\)들을 분산화시키려는 시도이다.
 
 Melonport
 
