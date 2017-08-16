@@ -81,15 +81,21 @@ Melonport
 
 #### 부동산\(real estate\) 시장
 
+전 세계 거주용 부동산 시장 규모 162조 달러. 
+
+20조 달러의 유휴자본\(dead capital\). 
+
+개발 도상국은 제대로 된 부동산 등록 시스템 부재
+
+각종 사기\(fraud\)
+
 the number of transactions in real estate trading is relatively low due to the nature of the sector and the relatively high value of real estate assets
 
 **프라피\(Propy\)**
 
-이더리움 블록체인 기반의 분산화된 부동산 거래 플랫폼으로서 자체 프라피 토큰\(PRO: Propy Token\)을 사용하여 전 세계의 부동산 자산을 등록하고 거래할 수 있도록 
+이더리움 블록체인 기반의 분산화된 부동산 거래 플랫폼으로서 자체 프라피 토큰\(PRO: Propy Token\)을 사용하여 전 세계의 부동산 자산을 등록하고 거래할 수 있도록 해준다. 
 
 Payment will initially be made in fiat currencies, and cryptocurrencies are plan to be added over time in the jurisdictions where it is possible to do so.
-
-
 
 Propy has been building a decentralized, global property store. This online store will rely on Propy Registry, built on ethereum blockchain to track global real estate ownership, as well as PRO, a utility token to enable the development of a thriving, self-sustaining ecosystem around this database and token holders.
 
