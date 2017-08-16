@@ -79,7 +79,11 @@ the DAO
 
 Melonport
 
-ubitquity \(real estate\)
+Propy
+
+Ubitquity
+
+Factom
 
 Numerai
 
