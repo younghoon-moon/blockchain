@@ -8,7 +8,7 @@
 * **신원관리\(identity management\)**: 금융기관들은 사용자의 신원을 확인하기 위해 복잡한 인증절차를 거치게 된다. 특히 공인인증서의 경우 발급하는 절차가 까다로울 뿐 아니라 한 번 발급되면 그 사용이 특정 하드웨어에만 제한되어 효율성이 매우 떨어진다.
 * **높은 수수료\(high transaction fee\)**: 해외송금의 경우 여러 단계의 금융기관을 거쳐 이루어지기 때문에 수수료가 매우 높다. 신용카드 결제의 경우 중간 수수료가 3% 정도 가량 한다. 
 * 많은 서류작업\(lots of paperwork\)
-* 사생활 보호\(privacy\)
+* **사생활 보호\(privacy\)**: 자신의 금융 데이터가 중앙서버에 저장되기 때문에 해킹 혹은 검열\(censorship\)에 의해 사생활이 노출된 염려가 있다.
 * 해킹 및 사기\(hacking & fraud\)
 * **금융의 자유\(financial freedom\)**: 현재 약 30억명의 사람들이 은행계좌를 보유하고 있지 않다\(출처 필요\). 
 
@@ -81,9 +81,9 @@ Melonport
 
 #### 부동산\(real estate\) 시장
 
-전 세계 거주용 부동산 시장 규모 162조 달러. 
+전 세계 거주용 부동산 시장 규모 162조 달러.
 
-20조 달러의 유휴자본\(dead capital\). 
+20조 달러의 유휴자본\(dead capital\).
 
 개발 도상국은 제대로 된 부동산 등록 시스템 부재
 
@@ -93,7 +93,7 @@ the number of transactions in real estate trading is relatively low due to the n
 
 **프라피\(Propy\)**
 
-이더리움 블록체인 기반의 분산화된 부동산 거래 플랫폼으로서 자체 프라피 토큰\(PRO: Propy Token\)을 사용하여 전 세계의 부동산 자산을 등록하고 거래할 수 있도록 해준다. 
+이더리움 블록체인 기반의 분산화된 부동산 거래 플랫폼으로서 자체 프라피 토큰\(PRO: Propy Token\)을 사용하여 전 세계의 부동산 자산을 등록하고 거래할 수 있도록 해준다.
 
 Payment will initially be made in fiat currencies, and cryptocurrencies are plan to be added over time in the jurisdictions where it is possible to do so.
 
