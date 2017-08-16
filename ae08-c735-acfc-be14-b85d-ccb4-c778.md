@@ -86,6 +86,7 @@ the DAO
 
 * **아이코노미\(ICONOMI\): **이더리움 블록체인 기반의 디지털 자산관리 플랫폼으로서 DAA\(Digital Asset Arrays\)라 불리는 디지털 자산의 전략 및 포트폴리오를 운용\(manage\)하는 매니저와 DAA에 투자하는 투자자들을 매칭시켜주는 플랫폼이다. 슬로베니아에 기반을 두고 있으며 2016년 10월 [ICO를 통해 약 1,050만달러의 자금을 유치](https://www.cryptocoinsnews.com/ethereum-based-iconomi-raises-10-5-million-ico/)하였다. 기존의 자산운용사\(asset management\)들을 분산화시키려는 시도이다.
 * **멜론포트\(Melonport\)**: 
+* 프리즘\(PRISM\)
 
 #### 부동산\(real estate\) 시장
 
@@ -97,19 +98,15 @@ the DAO
 
 각종 사기\(fraud\)
 
+국가간 부동산 거래의 비효율성과 불편함
+
 the number of transactions in real estate trading is relatively low due to the nature of the sector and the relatively high value of real estate assets
 
-**프라피\(Propy\)**
+* **프라피\(Propy\): **이더리움 블록체인 기반의 분산화된 부동산 거래 플랫폼 Propy Registry를 통해 전 세계 부동산 자산의 소유권을 추적\(track\)하고 자체 프라피 토큰\(PRO: Propy Token\)을 사용하여 전 세계의 부동산 자산을 등록하고 거래할 수 있도록 해준다.
+* 유빗쿼티\(Ubitquity\)
+* 팩텀\(Factom\)
 
-이더리움 블록체인 기반의 분산화된 부동산 거래 플랫폼으로서 자체 프라피 토큰\(PRO: Propy Token\)을 사용하여 전 세계의 부동산 자산을 등록하고 거래할 수 있도록 해준다.
-
-Payment will initially be made in fiat currencies, and cryptocurrencies are plan to be added over time in the jurisdictions where it is possible to do so.
-
-Propy has been building a decentralized, global property store. This online store will rely on Propy Registry, built on ethereum blockchain to track global real estate ownership, as well as PRO, a utility token to enable the development of a thriving, self-sustaining ecosystem around this database and token holders.
-
-Ubitquity
-
-Factom
+#### 헷지펀드\(hedge fund\)
 
 Numerai
 
@@ -118,8 +115,6 @@ Factom
 TenX
 
 Exchanges - Bancor, Omisego
-
-PRISM
 
 Humaniq
 
