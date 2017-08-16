@@ -5,12 +5,12 @@
 * **거래 상대방 리스크\(counter-party risk\)**: 모든 거래에서는 거래 상대방이 계약을 이행하지 않을 리스크가 존재한다.
 * **중개인 리스크\(intermediary risk\)**: 거래의 중개인이 해킹을 당하거나 악의적인 행동을 하는 경우
 * **청산\(settlement\)**: 대부분의 금융거래의 경우 청산에 평균 약 3영업일\(D+3\) 이상이 소요된다.
-* **신원관리\(identity management\)**: 금융기관들은 사용자의 신원을 확인하기 위해 복잡한 인증절차를 거치게 된다. 특히 공인인증서의 경우 발급하는 절차가 까다로울 뿐 아니라 한 번 발급되면 그 사용이 특정 하드웨어에만 제한되어 효율성이 매우 떨어진다.
-* **높은 수수료\(high transaction fee\)**: 해외송금의 경우 여러 단계의 금융기관을 거쳐 이루어지기 때문에 수수료가 매우 높다. 신용카드 결제의 경우 중간 수수료가 3% 정도 가량 한다. 
-* 많은 서류작업\(lots of paperwork\)
+* **신원관리\(identity management\)**: 금융기관들은 사용자의 신원을 확인하기 위해 불필요하게 복잡하고 까다로운 인증절차를 거치게 된다. 우리나라의 공인인증서의 경우 발급하는 절차가 까다로울 뿐 아니라 한 번 발급되면 특정 하드웨어에서만 사용할 수 있어 효율성이 매우 떨어진다.
+* **높은 수수료\(high transaction fee\)**: 해외송금의 경우 여러 금융기관을 거쳐 이루어지기 때문에 수수료가 매우 높다. 타지크스탄\(Tajikistan\) 키르기스스탄\(Kyrgyz Republic\), 네팔\(Nepal\)은 본국으로 돈을 송금하는 국제송금\(remittances\)금액이 [GDP의 각각 47%, 31%, 22%를 차지](http://blogs.worldbank.org/psd/putting-87-billion-back-pockets-asia-s-migrants)하는 만큼 자국 노동자들의 국제송금이 경제의 중요한 역할을 담당한다. 특히 해우리가 일상생활에서 사용하는 신용카드 결제의 경우에도 중간 수수료가 약 3% 정도로서 결국 소비자들과 상인들이 이 비용을 지불하는 대신 신용카드회사 및 결제 서비스 제공업체들은 두둑한 수수료를 챙긴다. 
+* **많은 서류작업\(lots of paperwork\)**: 
 * **사생활 보호\(privacy\)**: 자신의 금융 데이터가 중앙서버에 저장되기 때문에 해킹 혹은 검열\(censorship\)에 의해 사생활이 노출된 염려가 있다.
-* 해킹 및 사기\(hacking & fraud\)
-* **금융의 자유\(financial freedom\)**: 현재 약 30억명의 사람들이 은행계좌를 보유하고 있지 않다\(출처 필요\). 
+* **해킹 및 사기\(hacking & fraud\)**: 금융기관을 해킹하는 사례는 많다. 2016년 ["Lazarus"라는 가명을 사용하는 해커](https://en.wikipedia.org/wiki/2015%E2%80%932016_SWIFT_banking_hack)가 국제 송금망인 [스위프트\(SWIFT: Society for Worldwide Interbank Financial Telecommunication\)망](https://en.wikipedia.org/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication)을 해킹하여 뉴욕 연방준비은행\(FRB: Federal Reserve Bank\)의 [방글라데시 중앙은행 계좌로부터 약 1억달러를 탈취](http://money.cnn.com/2016/05/26/technology/swift-bank-hack-philippines-lazarus/index.html?iid=EL)하였다. 이와 더불어 2015~2016년에 걸쳐 [베트남](http://money.cnn.com/2016/05/20/news/swift-bank-attack-global-ecuador/index.html?iid=EL), [필리핀](http://money.cnn.com/2016/05/26/technology/swift-bank-hack-philippines-lazarus/index.html?iid=EL), [에콰도르](http://money.cnn.com/2016/05/20/news/swift-bank-attack-global-ecuador/index.html?iid=EL)에서도 SWIFT망 해킹으로 인해 수천만 달러의 자금이 도난 당했다. 각국 중앙은행을 포함하여 전 세계의 대형 은행들이 서로간에 자금을 주고받을 때 사용하는 시스템으로서 "[결제 네트워크의 롤스로이스\(Rollys-Royce\)](https://www.nytimes.com/2016/05/01/business/dealbook/hackers-81-million-sneak-attack-on-world-banking.html)"라 불리 정도로 안전하다고 여겨졌던 스위프트망마저 해킹에 취약하다는 사실이 밝혀지면서 은행과 금융회사들의 시스템에 대한 안정성 문제가 더욱 붉어졌다. 
+* **금융의 자유\(financial freedom\)**: 현재 약 25억명의 사람들이 은행계좌를 보유하고 있지 않고 기본적인 은행 서비스에 대한 접근이 불가능한\(unbanked\) 상황.
 
 JPMorgan Chase, Citigroup, and Credit Suisse, all of which are [currently investing](http://www.reuters.com/article/us-axoni-blockchain-idUSKBN149073) in the technology
 
@@ -41,13 +41,11 @@ The New York–based venture capital firm Union Square Ventures \(USV\) [broaden
 
 #### 자금유치\(Fund raising\)와 벤처캐피탈\(Venture Capital\)
 
-블록체인은 신생 기업들의 비즈니스 모델 뿐 아니라 자금 확보의 방식까지 완전하게 바꾸어 놓았다. 기존의 스타트업이 시제품\(prototype\)을 만들고 벤처케피탈들을 찾아다니며 사업계획을 피칭하고 여러 라운드의 투자를 유치한 것과는 대조적으로 블록체인 기반의 기업들은 주로 스위스와 같은 암호화 화폐에 대한 규제가 명확한 국가에 재단\(foundation\)을 설립하고 자신의 서비스를 사용할 수 있는 토큰\(token\)을 발행하는 **ICO\(Initial Coin Offering\)**를 진행한다. 기업공개\(IPO: Initial Public Offering\)와는 다르게 복잡한 규제와 까다로운 조건 없이 암호화 화폐를 보유하고 있는 사람이면 누구나 투자할 수 있으며 투자자들은 일정량의 토큰을 투자에 댓가로 받게된다. 이더리움 재단이 백서\(whitepaper\)를 공개하고 2014년 당시 한 달여동안 진행된 크라우드 펀딩을 통해 [210만달러 규모의 자금을 확보](http://insidebitcoins.com/news/ethereum-self-crowdfunded-21-million-in-less-than-a-month-what-is-it-and-why-should-we-care/23838)한 이후 최근의 블록체인 프로젝트인 [테조스\(Tezos\)는 2017년 7월, 42시간만에 2320만달러](https://cointelegraph.com/news/tezos-232-mln-ico-sparks-fresh-fears-for-ethereum-sell-off)를 [뱅코\(Bancor\)는 2017년 6월 12일, 3시간만에 1530만달러의 자금을 유치](https://qz.com/1004892/the-bancor-ico-just-raised-153-million-on-ethereum-in-three-hours/)하는 등 2017년 현재 벤처케피탈보다 많은 금액이 ICO를 통해 블록체인 업계로 유입되고 있다. 
+블록체인은 신생 기업들의 비즈니스 모델 뿐 아니라 자금 확보의 방식까지 완전하게 바꾸어 놓았다. 기존의 스타트업이 시제품\(prototype\)을 만들고 벤처케피탈들을 찾아다니며 사업계획을 피칭하고 여러 라운드의 투자를 유치한 것과는 대조적으로 블록체인 기반의 기업들은 주로 스위스와 같은 암호화 화폐에 대한 규제가 명확한 국가에 재단\(foundation\)을 설립하고 자신의 서비스를 사용할 수 있는 토큰\(token\)을 발행하는 **ICO\(Initial Coin Offering\)**를 진행한다. 기업공개\(IPO: Initial Public Offering\)와는 다르게 복잡한 규제와 까다로운 조건 없이 암호화 화폐를 보유하고 있는 사람이면 누구나 투자할 수 있으며 투자자들은 일정량의 토큰을 투자에 댓가로 받게된다. 이더리움 재단이 백서\(whitepaper\)를 공개하고 2014년 당시 한 달여동안 진행된 크라우드 펀딩을 통해 [210만달러 규모의 자금을 확보](http://insidebitcoins.com/news/ethereum-self-crowdfunded-21-million-in-less-than-a-month-what-is-it-and-why-should-we-care/23838)한 이후 최근의 블록체인 프로젝트인 [테조스\(Tezos\)는 2017년 7월, 42시간만에 2320만달러](https://cointelegraph.com/news/tezos-232-mln-ico-sparks-fresh-fears-for-ethereum-sell-off)를 [뱅코\(Bancor\)는 2017년 6월 12일, 3시간만에 1530만달러의 자금을 유치](https://qz.com/1004892/the-bancor-ico-just-raised-153-million-on-ethereum-in-three-hours/)하는 등 2017년 현재 벤처케피탈보다 많은 금액이 ICO를 통해 블록체인 업계로 유입되고 있다.
 
 현재 ICO 시장이 과열되었다는 의견이 계속해서 제시되고 있고 미국의 증권거래소\(SEC: Securities and Exchange Commission\)도 [보고서](https://www.sec.gov/news/press-release/2017-131)를 통해 ICO를 통해 발행된 토큰이 주식\(securities\)으로 간주될 수 있고 이에 따라 증권거래법에 적용을 받을 수도 있음을 시사했다. 하지만 그럼에도 불구하고 ICO 열기는 멈출줄 모르며 현재에도 수백개의 서비스가 ICO를 준비하고 있다.
 
 신원 및 명성관리\(identity and reputation management\)
-
-
 
 보험 및 리스크 관리\(insurance and risk management\)
 
@@ -55,7 +53,9 @@ The New York–based venture capital firm Union Square Ventures \(USV\) [broaden
 
 감사 및 과세\(audit and tax\)
 
-데이터베이스\(database\)
+#### **금융 데이터의 기록 및 보관**
+
+금융 데이터를 안전하게 보관하는 일은 매우 어렵다. 특히 현재의 중앙서버에 기반한 데이터베이스는 효율적으로 거래를 처리할 수 있는 반면 중앙서버가 단일 실패점\(single point of failure\)으로 작용하여 중앙서버가 해킹당하면 시스템 전체가 무너진다. 
 
 스마트 컨트랙트를 사용한 각종 금융계약의 자동화
 
