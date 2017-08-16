@@ -24,7 +24,9 @@ The New York–based venture capital firm Union Square Ventures \(USV\) [broaden
 
 #### **화폐 \(Currency\)**
 
-현재 각 국가의 중앙은행의 신뢰를 바탕으로 발행되는 법정화폐\(fiat currency\)는 많은 문제점을 앉고 있다. 비트코인은 2008금융위기 이후 처음 세상에 알려졌는데 당시에는 많은 사람들이 미 정부의 구제금융\(bailout\)을 비판하며 월스트리트 점령운동\(Occupy Wall Street\)을 진행하고 있을 때였다. 비트코인은 [사이퍼 펑크\(cypherpunk\)](https://en.wikipedia.org/wiki/Cypherpunk)를 포함한 [무정부주의자\(anarchist\)](https://ko.wikipedia.org/wiki/아나키즘) 및 [자유주의자\(Libertarian\)](https://ko.wikipedia.org/wiki/자유지상주의)들의 열렬한 지지를 받았는데 그들은 발행량이 한정되어 있고 중앙기관이 통제 및 검열하지 못하도록 분산화\(decentralization\)된 비트코인에 큰 매력을 느꼈다. 정부의 권력을 지닌 사람들이 마음대로 돈을 찍어내 인플레이션을 초래하고 이를 상위 1%가 소유하고 있는 대형 투자은행을 구제하는데 사용하였다. 국가 기반의 화폐 시스템은 많은 문제를 가지고 있다. 예를 들어 베네수엘라에서는 2017년 예상 약 [700%가 넘는 살인적인 인플레이션](http://premium.mk.co.kr/view.php?no=19409)을 기록하고 있으며 유로존에서는 그리스 경제위기, 이탈리아와 스페인의 재정건정성에 대한 불안감, 브렉시트\(Brexit\) 등의 경제 문제와 시리아 난민의 처리 문제 등의 지정학적 요인에 의해 통화 시스템 자체가 흔들리고 있다. 미국과 중국간의 패권다툼으로 인한 화폐전쟁이 일어날 가능성이 상당하고 중동에서는 ISIS로 인해 국가의 존폐 자체가 흔들리고 있는 상황이다. 아프리카에서는 정부 자체의 신뢰도가 매우 낮으며 한반도에는 전쟁의 위험이 항상 도사리고 있다. 위와 같은 다양한 문제들의 핵심은 국가라는 중앙기관에 의해 발행되는 화폐들은 해당 **중앙기관이 단일 실패점\(single point of failure\)으로 작용**하게 된다는 것이다.
+각 국가의 중앙은행의 신뢰를 바탕으로 발행되는 법정화폐\(fiat currency\)는 많은 문제점을 가지고 있다. 비트코인은 2008년 금융위기 이후 처음 세상에 알려졌는데 당시는 많은 사람들이 미 정부의 구제금융\(bailout\)을 비판하며 월스트리트 점령운동\(Occupy Wall Street\)을 진행하고 있을 때였다. 월스트리트와 결탁한 권력자들이 대형 투자은행을 구제하기 위해 돈을 찍어내 대형 투자은행 지분의 대부분을 보유하고 있던 상위 1%들은 [조폐이익\(seigniorage\)](https://en.wikipedia.org/wiki/Seigniorage)을 가져가고 99%의 일반 시민들이 이를 [인플레이션세\(inflation tax\)](https://en.wikipedia.org/wiki/Seigniorage#Seigniorage_as_a_tax)의 형식으로 부담하게 됨으로써 하위 99%가 보유하고 있던 부를 상위 1%에게 이전했다는 것이 비판의 골자였다. 비트코인은 [사이퍼 펑크\(cypherpunk\)](https://en.wikipedia.org/wiki/Cypherpunk)를 포함한 [무정부주의자\(anarchist\)](https://ko.wikipedia.org/wiki/아나키즘) 및 [자유주의자\(Libertarian\)](https://ko.wikipedia.org/wiki/자유지상주의)들의 열렬한 지지를 받았는데 그들은 발행량이 한정되어 있고 중앙기관이 통제 및 검열할 수 없는 비트코인에 큰 매력을 느꼈기 때문이다.
+
+이외에도 국가 기반의 화폐 시스템은 많은 문제를 가지고 있다. 예를 들어 베네수엘라는 2017년 예상 약 [700%가 넘는 살인적인 인플레이션](http://premium.mk.co.kr/view.php?no=19409)을 기록하고 있어 자국 화폐에 대한 신뢰기반이 거의 붕괴되었다. 또한 유로존에서는 [그리스 경제위기](https://en.wikipedia.org/wiki/Greek_government-debt_crisis), 이탈리아와 스페인의 재정건정성에 대한 불안감, 브렉시트\(Brexit\) 등의 경제 문제와 시리아 난민의 처리 문제 등의 지정학적 요인에 의해 통화 시스템 자체가 흔들리고 있다. 미국과 중국간의 패권다툼으로 인한 화폐전쟁이 일어날 가능성이 상당하고 중동에서는 ISIS로 인해 국가의 존폐 자체가 흔들리고 있다. 아프리카에서는 정부 자체의 신뢰도가 매우 낮으며 한반도에는 전쟁의 위험이 항상 도사리고 있다. 위와 같은 다양한 문제들의 핵심은 국가라는 중앙기관에 의해 발행되는 화폐들은 해당 **중앙기관이 단일 실패점\(single point of failure\)으로 작용**하게 된다는 것이다.
 
 비트코인을 비롯한 블록체인 기반의 암호화화폐\(cryptocurrency\)는 대부분의 경우 발행량이 한정되어 있으며 화폐에 대한 정책 및 의사결정권한이 분산화된 생태계와 자유시장경제에 의해 결정된다. 비트코인의 등장 이후 수많은 알트코인\(altcoin: alternative coin\)들이 등장했는데 현재까지 수백개의 알트코인들이 시장에서 서로 경쟁하고 있다. 많은 사람들이 이를 오스트리아-헝가리 출신의 경제학자 [프리드리히 하이에크\(Friedrich Hayek\)](https://en.wikipedia.org/wiki/Friedrich_Hayek#Investment_and_choice)가 1976년 그의 저서 “[화폐의 탈국가화\(The Denationalization of Money\)](https://en.wikipedia.org/wiki/The_Denationalization_of_Money)”에서 주장한 민간 발행 화폐의 자유경쟁체계와 비교하기도 한다.
 
@@ -47,7 +49,7 @@ The New York–based venture capital firm Union Square Ventures \(USV\) [broaden
 
 현재 ICO 시장이 과열되었다는 의견이 계속해서 제시되고 있고 미국의 증권거래소\(SEC: Securities and Exchange Commission\)도 [보고서](https://www.sec.gov/news/press-release/2017-131)를 통해 ICO를 통해 발행된 토큰이 주식\(securities\)으로 간주될 수 있고 이에 따라 증권거래법에 적용을 받을 수도 있음을 시사했다. 하지만 그럼에도 불구하고 ICO 열기는 멈출줄 모르며 현재에도 수백개의 서비스가 ICO를 준비하고 있다.
 
-신원 및 명성관리\(identity and reputation management\)
+#### 신원 및 명성관리\(identity and reputation management\)
 
 보험 및 리스크 관리\(insurance and risk management\)
 

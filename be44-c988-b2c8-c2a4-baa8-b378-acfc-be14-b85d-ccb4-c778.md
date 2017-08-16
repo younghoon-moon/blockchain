@@ -1,8 +1,16 @@
 # 블록체인과 비즈니스 모델의 혁신
 
+2009년 비트코인이 등장한 이후 초기
+
 ### 1. 블록체인 비즈니스 모델
 
-토큰화\(tokenization\)
+블록체인을 바탕으로 하는 비즈니스 모델을 설계하는 경우 다음의 여섯가지 원칙\(principles\)이 매우 중요하다.
+
+#### 1.1. 토큰화\(tokenization\)
+
+대부분의 성공적인 블록체인 비즈니스 모델은 블록체인 상에서 **한정된 자원\(scarce resources\)을 사용하기 위해 필요**한 자체 토큰\(native token\)을 보유하고 있다. 비트코인 네트워크 상에서 비트코인 토큰\(token\)은 블록내의 한정된 공간\(현재 BTC의 경우 평균 10분당 1MB\)에 데이터를 저장할 수 있는 권리를 구입하는 데 사용되며 이는 나의 거래가 블록체인에 추가될 때마다 채굴자\(miner\)에게 거래 수수료\(transaction fee\)의 형식으로 지불된다. 따라서 내가 지불하는 거래 수수료는 거래금액이 아닌 거래 데이터의 바이트\(byte\)크기에 비례한다. 이더리움의 경우 자체 토큰인 이더\(ether\)를 통해 [가스\(gas\)](https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc)를 구입하고 이를 통해 이더리움 가상머신\(EVM: Ethereum Virtual Machine\)에서 실행되는 한정된 연산\(computation\)의 일부를 사용할 수 있는 권한을 획득한다. 이더리움 블록체인 상의 거래 및 계약코드\(contract code\)의 실행은 일정량의 가스를 소모하는데 개별 [블록의 가스제한\(gas limit\)은 현재 6739587가스](https://ethstats.net/)이다.
+
+토큰은 또한 특정 프로젝트의 지분\(share\) 역할을 한다. 분산화 자율 조직\(DAO: Decentralized Autonomous Organization\)
 
 오픈소스\(open-source\)
 
