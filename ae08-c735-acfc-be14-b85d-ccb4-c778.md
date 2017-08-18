@@ -6,12 +6,20 @@
 
 #### 1.1. **거래 상대방 리스크\(counter-party risk\)**
 
-모든 거래에서는 거래 상대방이 계약을 이행하지 않는 거래 상대방 리스크\(counter-party risk\)가 존재한다. 현재 금융 시스템 하에서는 거래 상대방 리스크를 줄이기 위해 금융기관들이 신뢰받는 제3자\(TTP: Trusted Third Party\)로서 차용증서\(IOU\) 관리, 거래 청산\(settlement\), 사기\(fraud\) 방지, 신용분석\(credit analysis\), 신원관리\(identity management\), 리스크 완화\(risk mitigation\) 등의 다양한 역할 수행한다. 
+모든 거래에서는 거래 상대방이 계약을 이행하지 않을 거래 상대방 리스크\(counter-party risk\)가 존재한다. 현재 금융 시스템 하에서는 거래 상대방 리스크를 줄이기 위해 금융기관들이 신뢰받는 제3자\(TTP: Trusted Third Party\)로서 차용증서\(IOU\) 관리, 거래 청산\(settlement\), 사기\(fraud\) 방지, 신용분석\(credit analysis\), 신원관리\(identity management\), 리스크 완화\(risk mitigation\) 등의 다양한 역할을 수행한다.
 
- These parties administer an IOU to the seller, settle money with creditors and perform fraud, credit analysis, identity management, and risk mitigation functions.
+#### 1.2. **중개인 리스크\(intermediary risk\)**
 
-* **중개인 리스크\(intermediary risk\)**: 거래의 중개인이 해킹을 당하거나 악의적인 행동을 하는 경우
-* **청산\(settlement\)**: 대부분의 금융거래의 경우 청산에 평균 약 3영업일\(D+3\) 이상이 소요된다.
+위에서 보다시피 금융거래 시 거래 상대방 리스크를 줄이기 위해 은행 등의 금융기관들이 중개인\(intermediary\) 역할을 하게 되는데 이 경우 중개인의 시스템이 해킹을 당하거나 악의적인 행동을 하는 경우가 발생하는 중개인 리스크가 존재한다.
+
+> 한국거래소가 코넥스 기업에게 불합리한 요구 사항을 주문하는 등 갑\(甲\)의 횡포를 저지르고 있는 것으로 나타났다 ... 거래소가 코넥스 기업 주요 주주들에게 보유 지분을 매각하라고 강요하는가 하면 기업 경영진들에게 자체 거래활성화 계획서를 만들어 제출하라고 지시한 것으로 밝혀졌다. [MK증권](http://vip.mk.co.kr/news/2013/1231345.html)
+
+
+
+#### 1.3. **청산\(settlement\)**
+
+대부분의 금융거래의 경우 청산에 평균 약 3영업일\(D+3\) 이상이 소요된다.
+
 * **신원관리\(identity management\)**: 금융기관들은 사용자의 신원을 확인하기 위해 불필요하게 복잡하고 까다로운 인증절차를 거치게 된다. 우리나라의 공인인증서의 경우 발급하는 절차가 까다로울 뿐 아니라 한 번 발급되면 특정 하드웨어에서만 사용할 수 있어 효율성이 매우 떨어진다.
 * **높은 수수료\(high transaction fee\)**: 해외송금의 경우 여러 금융기관을 거쳐 이루어지기 때문에 수수료가 매우 높다. [2012년 기준 이주자\(migrant\)에 의한 국제 송금액은 401억달러](http://blogs.worldbank.org/psd/putting-87-billion-back-pockets-asia-s-migrants)였으며 [평균 송금 수수료는 2017년 6월 기준 7.32%](https://remittanceprices.worldbank.org/sites/default/files/rpw_report_june_2017.pdf)였다. 우리나라에 거주하는 이주 노동자의 경우데도 본국으로 돈을 송금하는데 상당히 많은 수수료를 지불하는데 한국에서 베트남으로 24만원을 송금한다고 하면 [국민은행 혹은 웨스턴유니언\(Western Union\)을 사용하는 경우 각각 21,456원\(8.94%\), 20,688원\(8.62%\)의 높은 수수료를 지불](http://remittanceprices.worldbank.org/en/corridor/South-Korea/Vietnam)해야 한다. 특히 개발도상국들의 낙후된 금융 인프라를 고려하면 실제로 송금받은 돈을 인출하기 위해 멀리 떨어진 은행에 방문해야 하기 때문에 추가적인 시간과 교통비를 고려하면 실질적인 수수료는 더 높을 수 밖에 없다. 가난한 사람들이 더 많은 수수료를 지불해야 하는 악순환이 생긴다. 타지크스탄\(Tajikistan\) 키르기스스탄\(Kyrgyz Republic\), 네팔\(Nepal\)은 본국으로 돈을 송금하는 국제송금\(remittances\)금액이 [GDP의 각각 47%, 31%, 22%를 차지](http://blogs.worldbank.org/psd/putting-87-billion-back-pockets-asia-s-migrants)하는 만큼 자국 노동자들의 국제송금이 경제의 중요한 역할을 담당하기 때문에 송금 수수료 자체가 국가 경제에 매우 큰 영향을 미친다. 특히 우리가 일상생활에서 사용하는 신용카드 결제의 경우에도 중간 수수료가 약 3% 정도로서 결국 소비자들과 상인들이 이 비용을 지불하는 대신 신용카드회사 및 결제 서비스 제공업체들은 두둑한 수수료를 챙긴다. 
 * **많은 서류작업\(lots of paperwork\)**: 
