@@ -2,7 +2,7 @@
 
 탈중개인화\(disintermediation\)
 
-### 현재 금융의 문제점
+### 1. 현재 금융의 문제점
 
 * **거래 상대방 리스크\(counter-party risk\)**: 모든 거래에서는 거래 상대방이 계약을 이행하지 않을 리스크가 존재한다.
 * **중개인 리스크\(intermediary risk\)**: 거래의 중개인이 해킹을 당하거나 악의적인 행동을 하는 경우
@@ -20,7 +20,7 @@ Santander, a European bank, put the [potential savings at $20 billion a year](ht
 
 The New York–based venture capital firm Union Square Ventures \(USV\) [broadened its investment strategy](https://www.coinbase.com/legal/securities-law-framework.pdf) so that it could buy ICOs directly. Menlo Park venture capital firm Andreessen Horowitz joined USV in [investing in Polychain Capital](http://www.forbes.com/sites/laurashin/2016/12/09/andreessen-horowitz-and-union-square-ventures-invest-10-million-in-new-digital-assets-hedge-fund/#46edeb6a72cd), a hedge fund that only buys tokens. Blockchain Capit\al, one of the industry’s largest investors, [recently announced](http://finteknews.com/blockchain-capital-initial-coin-offering/) that it would be raising money for its new fund by issuing tokens by ICO, a first for the industry. And, of course, companies such as Goldman Sachs, NASDAQ, Inc., and [Intercontinental Exchange](https://en.wikipedia.org/wiki/Intercontinental_Exchange), the American holding company that owns the New York Stock Exchange, which dominate the IPO and listing business, have been [among the largest investors in blockchain ventures](http://money.cnn.com/2015/11/02/technology/bitcoin-1-billion-invested/).
 
-### 블록체인이 적용될 다양한 금융의 분야
+### 2. 블록체인과 금융의 혁신
 
 #### **화폐 \(Currency\)**
 
@@ -63,7 +63,7 @@ The New York–based venture capital firm Union Square Ventures \(USV\) [broaden
 
 스마트 컨트랙트를 사용한 각종 금융계약의 자동화
 
-### 다양한 금융 블록체인 프로젝트들
+### 3. 블록체인 기반 금융 서비스
 
 #### 화폐\(currency\)
 
