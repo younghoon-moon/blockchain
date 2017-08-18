@@ -14,13 +14,15 @@
 
 #### 1.2. **중개인 리스크\(intermediary risk\)**
 
-위에서 보다시피 금융거래 시 거래 상대방 리스크를 줄이기 위해 은행 등의 금융기관들이 중개인\(intermediary\) 역할을 하게 되는데 이 경우 중개인의 시스템이 해킹을 당하거나 자신의 지위를 이용하여 악의적인 행동을 하는 경우가 발생하는 중개인 리스크가 존재한다.
+위에서 보다시피 금융거래 시 거래 상대방 리스크를 줄이기 위해 은행 등의 금융기관들이 중개인\(intermediary\) 역할을 하게 되는데 이 경우 중개인의  신뢰가 약화되거나, 시스템이 해킹을 당하거나, 중개인이 자신의 지위를 이용하여 악의적인 행동을 하는 경우가 발생하는 중개인 리스크가 존재한다.
 
 > 한국거래소가 코넥스 기업에게 불합리한 요구 사항을 주문하는 등 갑\(甲\)의 횡포를 저지르고 있는 것으로 나타났다 ... 거래소가 코넥스 기업 주요 주주들에게 보유 지분을 매각하라고 강요하는가 하면 기업 경영진들에게 자체 거래활성화 계획서를 만들어 제출하라고 지시한 것으로 밝혀졌다. [MK증권](http://vip.mk.co.kr/news/2013/1231345.html)
 
 위와 같이 거래소가 자신의 지위를 악용하여 갑질을 하는 사례가 있는 반면 전세사기의 경우처럼 중개인 자체가 조직적으로 사기에 가담하는 경우도 있다.
 
 > 중개무자격자가 중개업등록증을 대여 받아 부동산중개사무소를 차리고, 다른 사람과 공모하여 월세로 여러 채의 주택을 임차한 뒤, 중개업자와 집주인으로 신분을 위장하고 여러 전세 임차인과 중복계약을 체결하여 전세보증금을 가로채는 사례. [부동산114](http://www.r114.com/z/news/research_txt.asp?only=0&m_=6&g_=&bno=200&num=5323&nkind=7&tabmenu=&rgubun=1)
+
+하지만 가장 큰 중개인 리스크는 국가별 법정화폐\(fiat currency\)를 발행하는 중앙은행으로부터 발생된다.
 
 #### 1.3. **청산\(settlement\)**
 
@@ -54,15 +56,19 @@ Santander, a European bank, put the [potential savings at $20 billion a year](ht
 
 The New York–based venture capital firm Union Square Ventures \(USV\) [broadened its investment strategy](https://www.coinbase.com/legal/securities-law-framework.pdf) so that it could buy ICOs directly. Menlo Park venture capital firm Andreessen Horowitz joined USV in [investing in Polychain Capital](http://www.forbes.com/sites/laurashin/2016/12/09/andreessen-horowitz-and-union-square-ventures-invest-10-million-in-new-digital-assets-hedge-fund/#46edeb6a72cd), a hedge fund that only buys tokens. Blockchain Capit\al, one of the industry’s largest investors, [recently announced](http://finteknews.com/blockchain-capital-initial-coin-offering/) that it would be raising money for its new fund by issuing tokens by ICO, a first for the industry. And, of course, companies such as Goldman Sachs, NASDAQ, Inc., and [Intercontinental Exchange](https://en.wikipedia.org/wiki/Intercontinental_Exchange), the American holding company that owns the New York Stock Exchange, which dominate the IPO and listing business, have been [among the largest investors in blockchain ventures](http://money.cnn.com/2015/11/02/technology/bitcoin-1-billion-invested/).
 
+1.10. 데이터의 분실
+
+미국의 웰스파고\(Wells Fargo\)는 약 40만건에 달하는 모기지\(mortgage\) 관련 약속어음\(promissory note\) 문서를 분실하였다. 
+
 ### 2. 블록체인과 금융의 혁신
 
 블록체인은 중개인 및 중앙기관 없이 분산화된 방식으로 거래내역을 기록하고 계약을 체결 및 이행할 수 있도록 한다. 거래내역과 계약의 내용 및 실행내역들이 블록체인 상에 비가역적으로\(immutably\) 기록되고 어떠한 기관 및 개인도 시스템의 합의\(consensus\) 없이 기록된 내용을 바꿀 수 없어 거래 상대방 리스크와 중개인 리스크를 비롯한 현재 금융이 가지고 있는 많은 문제들을 해결하고 효율성을 증대시킬 수 있다. 실제로 스페인의 산탄데르\(Santander\) 은행은 블록체인을 사용하여 [2022년까지 은행들이 인프라 비용을 150-200억달러 가량 줄일 수 있을 것으로 예상](https://www.coindesk.com/santander-blockchain-tech-can-save-banks-20-billion-a-year/)하고 있다.
 
-하지만 블록체인은 단순히 현재 금융기관의 효율성을 증대시키는 것 이외에도 비가역적인 데이터의 기록과 암호화 토큰의 네트워크 효과를 바탕으로 하여 혁신적인 금융의 비즈니스 모델들을 탄생시키고 있다. 
+블록체인은 단순히 현재 금융기관의 효율성을 증대시키는 것 뿐 아니라 비가역적인 데이터의 기록과 암호화 토큰의 네트워크 효과를 바탕으로 하여 혁신적인 금융의 비즈니스 모델들을 탄생시키고 있다.
 
 #### 2.1. **화폐 \(Currency\)**
 
-각 국가의 중앙은행의 신뢰를 바탕으로 발행되는 법정화폐\(fiat currency\)는 많은 문제점을 가지고 있다. 비트코인은 2008년 금융위기 이후 처음 세상에 알려졌는데 당시는 많은 사람들이 미 정부의 구제금융\(bailout\)을 비판하며 월스트리트 점령운동\(Occupy Wall Street\)을 진행하고 있을 때였다. 월스트리트와 결탁한 권력자들이 대형 투자은행을 구제하기 위해 돈을 찍어내 대형 투자은행 지분의 대부분을 보유하고 있던 상위 1%들은 [조폐이익\(seigniorage\)](https://en.wikipedia.org/wiki/Seigniorage)을 가져가고 99%의 일반 시민들이 이를 [인플레이션세\(inflation tax\)](https://en.wikipedia.org/wiki/Seigniorage#Seigniorage_as_a_tax)의 형식으로 부담하게 됨으로써 하위 99%가 보유하고 있던 부를 상위 1%에게 이전했다는 것이 비판의 골자였다. 비트코인은 [사이퍼 펑크\(cypherpunk\)](https://en.wikipedia.org/wiki/Cypherpunk)를 포함한 [무정부주의자\(anarchist\)](https://ko.wikipedia.org/wiki/아나키즘) 및 [자유주의자\(Libertarian\)](https://ko.wikipedia.org/wiki/자유지상주의)들의 열렬한 지지를 받았는데 그들은 발행량이 한정되어 있고 중앙기관이 통제 및 검열할 수 없는 비트코인에 큰 매력을 느꼈기 때문이다.
+각 국가의 중앙은행의 신뢰를 바탕으로 발행되는 법정화폐\(fiat currency\)는 많은 문제점을 가지고 있다. 비트코인은 2008년 금융위기 이후 처음 세상에 알려졌는데 당시는 많은 사람들이 미 정부의 구제금융\(bailout\)을 비판하며 월스트리트 점령운동\(Occupy Wall Street\)을 진행하고 있을 때였다. 월스트리트와 결탁한 권력자들이 대형 투자은행을 구제하기 위해 돈을 찍어내 대형 투자은행 지분의 대부분을 보유하고 있던 상위 1%들은 간접적으로 [조폐이익\(seigniorage\)](https://en.wikipedia.org/wiki/Seigniorage)을 가져가고 99%의 일반 시민들이 이를 [인플레이션세\(inflation tax\)](https://en.wikipedia.org/wiki/Seigniorage#Seigniorage_as_a_tax)의 형식으로 부담하게 됨으로써 하위 99%가 보유하고 있던 부를 상위 1%에게 이전했다는 것이 비판의 골자였다. 비트코인은 [사이퍼 펑크\(cypherpunk\)](https://en.wikipedia.org/wiki/Cypherpunk)를 포함한 [무정부주의자\(anarchist\)](https://ko.wikipedia.org/wiki/아나키즘) 및 [자유주의자\(Libertarian\)](https://ko.wikipedia.org/wiki/자유지상주의)들의 열렬한 지지를 받았는데 그들은 발행량이 한정되어 있고 중앙기관이 통제 및 검열할 수 없는 비트코인에 큰 매력을 느꼈기 때문이다.
 
 이외에도 국가 기반의 화폐 시스템은 많은 문제를 가지고 있다. 예를 들어 베네수엘라는 2017년 예상 약 [700%가 넘는 살인적인 인플레이션](http://premium.mk.co.kr/view.php?no=19409)을 기록하고 있어 자국 화폐에 대한 신뢰기반이 거의 붕괴되었다. 또한 유로존에서는 [그리스 경제위기](https://en.wikipedia.org/wiki/Greek_government-debt_crisis), 이탈리아와 스페인의 재정건정성에 대한 불안감, 브렉시트\(Brexit\) 등의 경제 문제와 시리아 난민의 처리 문제 등의 지정학적 요인에 의해 통화 시스템 자체가 흔들리고 있다. 미국과 중국간의 패권다툼으로 인한 화폐전쟁이 일어날 가능성이 상당하고 중동에서는 ISIS로 인해 국가의 존폐 자체가 흔들리고 있다. 아프리카에서는 정부 자체의 신뢰도가 매우 낮으며 한반도에는 전쟁의 위험이 항상 도사리고 있다. 위와 같은 다양한 문제들의 핵심은 국가라는 중앙기관에 의해 발행되는 화폐들은 해당 **중앙기관이 단일 실패점\(single point of failure\)으로 작용**하게 된다는 것이다.
 
