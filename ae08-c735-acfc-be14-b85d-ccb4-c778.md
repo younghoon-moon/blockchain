@@ -2,9 +2,14 @@
 
 탈중개인화\(disintermediation\)
 
-### 1. 현재 금융의 문제점
+### 1. 현재 금융 시스템의 문제점
 
-* **거래 상대방 리스크\(counter-party risk\)**: 모든 거래에서는 거래 상대방이 계약을 이행하지 않을 리스크가 존재한다.
+#### 1.1. **거래 상대방 리스크\(counter-party risk\)**
+
+모든 거래에서는 거래 상대방이 계약을 이행하지 않는 거래 상대방 리스크\(counter-party risk\)가 존재한다. 현재 금융 시스템 하에서는 거래 상대방 리스크를 줄이기 위해 금융기관들이 신뢰받는 제3자\(TTP: Trusted Third Party\)로서 차용증서\(IOU\) 관리, 거래 청산\(settlement\), 사기\(fraud\) 방지, 신용분석\(credit analysis\), 신원관리\(identity management\), 리스크 완화\(risk mitigation\) 등의 다양한 역할 수행한다. 
+
+ These parties administer an IOU to the seller, settle money with creditors and perform fraud, credit analysis, identity management, and risk mitigation functions.
+
 * **중개인 리스크\(intermediary risk\)**: 거래의 중개인이 해킹을 당하거나 악의적인 행동을 하는 경우
 * **청산\(settlement\)**: 대부분의 금융거래의 경우 청산에 평균 약 3영업일\(D+3\) 이상이 소요된다.
 * **신원관리\(identity management\)**: 금융기관들은 사용자의 신원을 확인하기 위해 불필요하게 복잡하고 까다로운 인증절차를 거치게 된다. 우리나라의 공인인증서의 경우 발급하는 절차가 까다로울 뿐 아니라 한 번 발급되면 특정 하드웨어에서만 사용할 수 있어 효율성이 매우 떨어진다.
