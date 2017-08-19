@@ -26,7 +26,7 @@
 
 #### 1.3. **청산\(settlement\)**
 
-대부분의 금융거래의 경우 청산에 평균 약 3영업일\(D+3\) 이상이 소요된다.
+대부분의 금융거래의 경우 청산에 평균 약 3영업일\(D+3\)이 소요된다.
 
 #### 1.4. **신원관리\(identity management\)**
 
@@ -36,9 +36,9 @@
 
 해외송금의 경우 여러 금융기관을 거쳐 이루어지기 때문에 수수료가 매우 높다. [2012년 기준 이주자\(migrant\)에 의한 국제 송금액은 401억달러](http://blogs.worldbank.org/psd/putting-87-billion-back-pockets-asia-s-migrants)였으며 [평균 송금 수수료는 2017년 6월 기준 7.32%](https://remittanceprices.worldbank.org/sites/default/files/rpw_report_june_2017.pdf)였다. 우리나라에 거주하는 이주 노동자의 경우데도 본국으로 돈을 송금하는데 상당히 많은 수수료를 지불하는데 한국에서 베트남으로 24만원을 송금한다고 하면 [국민은행 혹은 웨스턴유니언\(Western Union\)을 사용하는 경우 각각 21,456원\(8.94%\), 20,688원\(8.62%\)의 높은 수수료를 지불](http://remittanceprices.worldbank.org/en/corridor/South-Korea/Vietnam)해야 한다. 특히 개발도상국들의 낙후된 금융 인프라를 고려하면 실제로 송금받은 돈을 인출하기 위해 멀리 떨어진 은행에 방문해야 하기 때문에 추가적인 시간과 교통비를 고려하면 실질적인 수수료는 더 높을 수 밖에 없다. 가난한 사람들이 더 많은 수수료를 지불해야 하는 악순환이 생긴다. 타지크스탄\(Tajikistan\) 키르기스스탄\(Kyrgyz Republic\), 네팔\(Nepal\)은 본국으로 돈을 송금하는 국제송금\(remittances\)금액이 [GDP의 각각 47%, 31%, 22%를 차지](http://blogs.worldbank.org/psd/putting-87-billion-back-pockets-asia-s-migrants)하는 만큼 자국 노동자들의 국제송금이 경제의 중요한 역할을 담당하기 때문에 송금 수수료 자체가 국가 경제에 매우 큰 영향을 미친다. 특히 우리가 일상생활에서 사용하는 신용카드 결제의 경우에도 중간 수수료가 약 3% 정도로서 결국 소비자들과 상인들이 이 비용을 지불하는 대신 신용카드회사 및 결제 서비스 제공업체들은 두둑한 수수료를 챙긴다.
 
-1.6. **많은 서류작업\(lots of paperwork\)**:
+#### 1.6. **많은 서류작업\(lots of paperwork\)**:
 
-1.7. **사생활 보호\(privacy\)**
+#### 1.7. **사생활 보호\(privacy\)**
 
 자신의 금융 데이터가 중앙서버에 저장되기 때문에 해킹 혹은 검열\(censorship\)에 의해 사생활이 노출된 염려가 있다.
 
@@ -58,7 +58,7 @@ The New York–based venture capital firm Union Square Ventures \(USV\) [broaden
 
 1.10. 데이터의 분실
 
-미국의 웰스파고\(Wells Fargo\)는 약 40만건에 달하는 모기지\(mortgage\) 관련 약속어음\(promissory note\) 문서를 분실하였다. 
+미국의 웰스파고\(Wells Fargo\)는 약 40만건에 달하는 모기지\(mortgage\) 관련 약속어음\(promissory note\) 문서를 분실하였다.
 
 ### 2. 블록체인과 금융의 혁신
 
