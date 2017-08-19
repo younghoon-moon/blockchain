@@ -48,7 +48,9 @@
 
 #### 3.3. 스마트 컨트랙트 언어\(smart contract language\)
 
-이더리움의 가장 큰 특징 중 하나는 튜링 완전한\(Turing complete\) 스마트 컨트랙트 언어를 사용한다는 것이다. 단순한 거래의 실행에 대한 조건을 나타내는 비트코인의 스크립트 언어와는 달리 이더리움의 스마트 컨트랙트 언어는 튜링 완전하기 때문에 대부분의 일반적인 계약의 내용들을 구현할 수 있다. 가장 널리 사용되는 이더리움 스마트 컨트랙트 언어는 자바스크립트\(JavaScript\)와 비슷한 문법을 지니고 있는 [솔리디티\(Solidity\)](https://solidity.readthedocs.io/en/develop/)가 있다. 
+이더리움의 가장 큰 특징 중 하나는 튜링 완전한\(Turing complete\) 스마트 컨트랙트 언어를 사용한다는 것이다. 단순한 거래의 실행에 대한 조건을 나타내는 비트코인의 스크립트 언어와는 달리 이더리움의 스마트 컨트랙트 언어는 튜링 완전하기 때문에 대부분의 일반적인 계약의 내용들을 구현할 수 있다. 가장 널리 사용되는 이더리움 스마트 컨트랙트 언어는 자바스크립트\(JavaScript\)와 비슷한 문법을 지니고 있는 [솔리디티\(Solidity\)](https://solidity.readthedocs.io/en/develop/)가 있다.
 
-하지만 튜링 완전한 언어는 다양하고 복잡한 계약조건을 구현할 수 있는 반면 그 복잡성으로 인해 버그가 발생할 확률 또한 높다. 그리고 블록체인 상에서 거대한 규모의 자금을 보유하고 있는 스마트 컨트랙트의 경우 단 하나의 버그도 치명적일 수 있다. 실제로 2016년 6월 크라우드 펀딩으로 약 1억 5,000만달러 이상의 자금을 모집했던 [the DAO\(Decentralized Autonomous Organization\)의 스마트 컨트랙트 코드의 버그를 통해 해커가 약 5,000만달러의 금액을 탈취](https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/)하였고 2017년 7월에는 이더리움 클라이언트\(client\)이자 지갑 소프트웨어인 [Parity의 다중서명지갑의 스마트 컨트랙 상의 버그로 인해 해커가 약 3,200만 달러 규모의 이더를 탈취](https://www.cryptocoinsnews.com/hackers-seize-32-million-in-parity-wallet-breach/)한 사건이 있었다. 이러한 스마트 컨트랙트의 
+하지만 튜링 완전한 언어는 다양하고 복잡한 계약조건을 구현할 수 있는 반면 그 복잡성으로 인해 버그가 발생할 확률 또한 높다. 특히 블록체인 상에서 큰 규모의 자금을 보유하고 있는 스마트 컨트랙트의 경우 단 하나의 버그도 치명적일 수 있다. 실제로 2016년 6월 크라우드 펀딩으로 약 1억 5,000만달러 이상의 자금을 모집했던 [the DAO\(Decentralized Autonomous Organization\)의 스마트 컨트랙트 코드의 버그를 통해 해커가 약 5,000만달러의 금액을 탈취](https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/)한 사건이 있었고 2017년 7월에는 이더리움 클라이언트\(client\)이자 지갑 소프트웨어인 [Parity의 다중서명지갑의 스마트 컨트랙 상의 버그로 인해 해커가 약 3,200만 달러 규모의 이더를 탈취](https://www.cryptocoinsnews.com/hackers-seize-32-million-in-parity-wallet-breach/)한 사건이 있었다. 이러한 스마트 컨트랙트의 버그 가능성을 줄이고자 이더리움의 창시자인 비탈릭 뷰테린에 의해 새로운 스마트 컨트랙트 언어인 [바이퍼\(Viper\)](https://github.com/ethereum/viper)가 개발 중에 있다. 바이퍼는 기존의 스마트 컨트랙트 언어들의 단점을 보완하고 스마트 컨트랙트의 행동을 예측가능하고 이해하기 쉽게 만들어 오류 가능성을 줄이는 것을 주요 목적으로 한다.
+
+3.4. 합의 알고리즘\(consensus algorithm\)
 
