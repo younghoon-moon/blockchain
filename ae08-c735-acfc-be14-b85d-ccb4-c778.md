@@ -68,26 +68,19 @@
 
 비트코인은 분산화되어 있기 때문에 누구도 비트코인 시스템을 완전히 파괴하기란 불가능하며 비트코인 생태계 또한 개별 국가의 정책에 영향을 적게 받는다. 실제로 2017년 2월 [중국에서 자금세탁방지법\(AML: Anti-Money Laundering\)을 근거로 비트코인 거래소에서의 출금을 금지](https://www.coindesk.com/two-chinas-biggest-exchanges-stop-bitcoin-withdrawals/)한 약 4달의 기간동안 일본이 중국을 제치고 비트코인 거래량 1위가 되었으며 비트코인 가격도 오히려 상승했다.
 
-#### 2.2. 가치의 이동\(Moving value\)
+#### 2.2. 가치의 이동 및 거래\(moving and trading value\)
 
 블록체인은 결제와 해외송금 등 가치의 이동이 필요한 서비스에 사용될 수 있다. 해외송금을 하기 위해서는 웨스턴유니언\(Western Union\)과 같은 해외송급 서비스를 사용해야 하는데 많게는 [20%가 넘는 송금 수수료가 부과](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Botswana)되는 경우도 있다. 단순 카드결제같은 경우에도 체계가 잘 갖춰진 우리나라의 경우 3% 가량이 수수료로 지불되며 기타 국가들은 많게는 10%\(미정\)나 되는 수수료를 부담해야 하는 경우가 많다. 해외에 돈을 송금하기 위해서는 신원확인부터 다수의 서류를 작성하는 등의 지나치게 복잡한 절차를 거쳐야 하며 돈의 액수가 큰 경우에는 더욱 그렇다.
 
-#### 2.3. **가치의 거래 \(Trading value\)**
-
-현재 대부분의
-
-* 가치의 저장 & 저축\(storing value & savings\)
-* 대출 \(lending and borrowing & credit\)
-
-#### 2.4. 자금유치\(Fund raising\)와 벤처캐피탈\(Venture Capital\)
+#### 2.3. 자금유치\(Fund raising\)와 벤처캐피탈\(Venture Capital\)
 
 블록체인은 신생 기업들의 비즈니스 모델 뿐 아니라 자금 확보의 방식까지 완전하게 바꾸어 놓았다. 기존의 스타트업이 시제품\(prototype\)을 만들고 벤처케피탈들을 찾아다니며 사업계획을 피칭하고 여러 라운드의 투자를 유치한 것과는 대조적으로 블록체인 기반의 기업들은 주로 스위스와 같은 암호화 화폐에 대한 규제가 명확한 국가에 재단\(foundation\)을 설립하고 자신의 서비스를 사용할 수 있는 토큰\(token\)을 발행하는 **ICO\(Initial Coin Offering\)**를 진행한다. 기업공개\(IPO: Initial Public Offering\)와는 다르게 복잡한 규제와 까다로운 조건 없이 암호화 화폐를 보유하고 있는 사람이면 누구나 투자할 수 있으며 투자자들은 일정량의 토큰을 투자에 댓가로 받게된다. 이더리움 재단이 백서\(whitepaper\)를 공개하고 2014년 당시 한 달여동안 진행된 크라우드 펀딩을 통해 [210만달러 규모의 자금을 확보](http://insidebitcoins.com/news/ethereum-self-crowdfunded-21-million-in-less-than-a-month-what-is-it-and-why-should-we-care/23838)한 이후 최근의 블록체인 프로젝트인 [테조스\(Tezos\)는 2017년 7월, 42시간만에 2320만달러](https://cointelegraph.com/news/tezos-232-mln-ico-sparks-fresh-fears-for-ethereum-sell-off)를 [뱅코\(Bancor\)는 2017년 6월 12일, 3시간만에 1530만달러의 자금을 유치](https://qz.com/1004892/the-bancor-ico-just-raised-153-million-on-ethereum-in-three-hours/)하는 등 2017년 현재 벤처케피탈보다 많은 금액이 ICO를 통해 블록체인 업계로 유입되고 있다.
 
 현재 ICO 시장이 과열되었다는 의견이 계속해서 제시되고 있고 미국의 증권거래소\(SEC: Securities and Exchange Commission\)도 [보고서](https://www.sec.gov/news/press-release/2017-131)를 통해 ICO를 통해 발행된 토큰이 주식\(securities\)으로 간주될 수 있고 이에 따라 증권거래법에 적용을 받을 수도 있음을 시사했다. 하지만 그럼에도 불구하고 ICO 열기는 멈출줄 모르며 현재에도 수백개의 서비스가 ICO를 준비하고 있다.
 
-#### 2.5. 신원 및 명성관리\(identity and reputation management\)
+#### 2.4. 신원 및 명성관리\(identity and reputation management\)
 
-2.6. 보험 및 리스크 관리\(insurance and risk management\)
+#### 2.5. 보험 및 리스크 관리\(insurance and risk management\)
 
 #### 2.7. 회계\(accounting\) 및 감사\(audit\)
 
@@ -95,13 +88,11 @@
 
 #### 2.8. 규제 준수\(regulatory compliance\) 및 과세\(tax\)
 
-블록체인에는 정보가 비가역적으로 기록 및 저장되고 한 번 기록된 데이터는 영원히 블록체인에 남아있어 금융과 관련한 각종 규제의 준수여부를 객관적이고 효율적으로 확인할 수 있게 된다. 실제로 미국의 웰스파고\(Wells Fargo\) 은행은 고객들의 [모기지\(mortgage\)와 관련된 문서 약 40만건을 분실](http://content.time.com/time/magazine/article/0,9171,2032110,00.html)하였는데 [문서를 분실한 사실을 고객에게 누설하지 않도록 압력을 행사하였으며 이를 비윤리적이라 비판한 직원을 해고](http://www.reuters.com/article/us-wells-fargo-lawsuit-idUSKCN0XX2ET)하였다. 
+블록체인에는 정보가 비가역적으로 기록 및 저장되고 한 번 기록된 데이터는 영원히 블록체인에 남아있어 금융과 관련한 각종 규제의 준수여부를 객관적이고 효율적으로 확인할 수 있게 된다. 실제로 미국의 웰스파고\(Wells Fargo\) 은행은 고객들의 [모기지\(mortgage\)와 관련된 문서 약 40만건을 분실](http://content.time.com/time/magazine/article/0,9171,2032110,00.html)하였는데 [문서를 분실한 사실을 고객에게 누설하지 않도록 압력을 행사하였으며 이를 비윤리적이라 비판한 직원을 해고](http://www.reuters.com/article/us-wells-fargo-lawsuit-idUSKCN0XX2ET)하였다.
 
 #### 2.9. **금융 데이터의 기록 및 보관**
 
 금융 데이터를 안전하게 보관하는 일은 매우 어렵다. 특히 현재의 중앙서버에 기반한 데이터베이스는 효율적으로 거래를 처리할 수 있는 반면 중앙서버가 단일 실패점\(single point of failure\)으로 작용하여 중앙서버가 해킹당하면 시스템 전체가 무너진다.
-
-스마트 컨트랙트를 사용한 각종 금융계약의 자동화
 
 ### 3. 블록체인 금융 서비스
 
