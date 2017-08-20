@@ -89,11 +89,13 @@
 
 2.6. 보험 및 리스크 관리\(insurance and risk management\)
 
-#### 2.7. 회계\(accounting\)
+#### 2.7. 회계\(accounting\) 및 감사\(audit\)
 
 블록체인을 사용하면 비가역적인 방식으로 누구나 신뢰할 수 있도록 각종 금융 정보를 기록하는 것이 가능하다.
 
-2.8. 감사 및 과세\(audit and tax\)
+#### 2.8. 규제 준수\(regulatory compliance\) 및 과세\(tax\)
+
+블록체인에는 정보가 비가역적으로 기록 및 저장되고 한 번 기록된 데이터는 영원히 블록체인에 남아있어 금융과 관련한 각종 규제의 준수여부를 객관적이고 효율적으로 확인할 수 있게 된다. 실제로 미국의 웰스파고\(Wells Fargo\) 은행은 고객들의 [모기지\(mortgage\)와 관련된 문서 약 40만건을 분실](http://content.time.com/time/magazine/article/0,9171,2032110,00.html)하였는데 [문서를 분실한 사실을 고객에게 누설하지 않도록 압력을 행사하였으며 이를 비윤리적이라 비판한 직원을 해고](http://www.reuters.com/article/us-wells-fargo-lawsuit-idUSKCN0XX2ET)하였다. 
 
 #### 2.9. **금융 데이터의 기록 및 보관**
 
@@ -110,14 +112,10 @@
 
 #### 3.2. 가치의 이동\(moving value\)
 
-* 위에서 언급한 암호화 화폐의 경우 토큰의 자유로운 이동을 
+* 위에서 언급한 암호화 화폐의 경우 토큰간 안전하고 효율적인 가치의 이동이 가능하다.  
 * [리플\(Ripple\)](https://ripple.com/), [스텔라\(Stellar\)](https://www.stellar.org/): 리플과 스텔라는 직접적으로 화폐의 성격을 띄진 않지만 기존의 금융 시스템과의 통합을 통해 기존의 화폐 및 각종 금융상품 등의 거래 및 교환을 안전하고 효율적으로 할 수 있도록 도와주는 플랫폼이다. 
 
 ABRA
-
-aeternity
-
-Ripple, Stellar
 
 Bitshares
 
