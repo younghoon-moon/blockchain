@@ -91,7 +91,7 @@
 
 #### 2.7. 회계\(accounting\)
 
-블록체인을 사용하면 비가역적인 방식으로 누구나 신뢰할 수 있도록 각종 금융 정보를 기록하는 것이 가능하다.   
+블록체인을 사용하면 비가역적인 방식으로 누구나 신뢰할 수 있도록 각종 금융 정보를 기록하는 것이 가능하다.
 
 2.8. 감사 및 과세\(audit and tax\)
 
@@ -108,11 +108,16 @@
 * [**비트코인\(Bitcoin\)**](https://www.bitcoin.com/)**, **[**라이트코인\(Litecoin\)**](https://litecoin.com/): 비트코인과 라이트코인은 분산화된\(decentralized\) P2P 방식으로 중개인없이 발행되고 유통되는 전자화폐로서 인터넷에 접속할 수만 있다면 누구나 쉽게 계좌를 만들고 안전하게 코인을 사고 팔 수 있다. 중앙기관에 의해 발행량이 결정되는 국가 법정화폐\(fiat currency\)와 달리 발행량을 포함한 화폐와 관련된 모든 중요한 의사결정은 분산화된 합의\(consensus\)를 통해서 이루어지기 때문에 어느 한 기관 혹은 개인이 통제할 수 없다. 화폐의 발행 및 거래에 대한 정보는 블록체인이라는 데이터구조에 저장되는데 한 번 블록체인에 기록된 내역은 블록체인에 영구히 저장되어 누구나 열람할 수 있다. 비트코인 및 라이트코인과 같은 암호화화폐\(cryptocurrency\)는 기존의 중앙은행 및 은행과 비자\(Visa\)와 같은 결제업체의 역할을 분산화된 방식으로 구현함으로써 화폐의 발행과 유통의 탈중개인화\(disintermediation\)을 가져온다. 
 * **익명성 화폐 -** [**지캐시\(ZCash\)**](https://z.cash/)**, **[**모네로\(Monero\)**](https://getmonero.org/)**, **[**대시\(Dash\)**](https://www.dash.org/): 비트코인의 경우 모든 거래 내역이 비트코인 블록체인에 투명하게\(transparent\) 공개된다. 물론 비트코인 사용자는 [26~35개의 알파벳과 숫자로\(alphanumeric\) 구성된 주소\(address\)](https://en.bitcoin.it/wiki/Address)를 가명\(pseudonym\)으로 사용하긴 하지만 다양한 방식\(e.g. 블록체인 분석\)을 통해 사용자와 주소를 연관\(associate\)시킬 수 있고 한 번 그 연관성이 식별되면 해당 주소를 통한 모든 비트코인 거래 내역을 누구나 볼 수 있어 사생활 보호에 취약하다는 지적이 계속되고 있다. 이러한 문제를 해결하고자 다양한 암호학적\(cryptographic\) 도구를 활용한 새로운 화폐들이 등장했는데 그 대표적인 코인으로는 지캐시\(ZCahs\)와 모네로\(Monero\) 그리고 대시\(Dash\)가 있다. **지캐시\(ZCash\)**는 [영지식증명\(zero-knowledge proof\)](https://en.wikipedia.org/wiki/Zero-knowledge_proof)을 활용한 [zk-SNARKs](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) 프로토콜을 통해 익명성\(confidentiality\)을 보장하는 화폐이며 **모네로\(Monero\)**는 [링 시그니처\(ring signature\)](https://en.wikipedia.org/wiki/Ring_signature), [비밀주소\(stealth address\)](https://getmonero.org/resources/moneropedia/stealthaddress.html), [익명거래\(CT: Confidential Transaction\)](https://elementsproject.org/elements/confidential-transactions/) 등의 다양한 기술을 결합하여 모든 거래를 불투명하게 만드는 화폐이다. 또 다른 디지털 화폐인 **대시\(Dash\)**는 [마스터노드\(masternode\)](https://dashpay.atlassian.net/wiki/spaces/DOC/pages/1867864/What+is+a+masternode)가 존재하여 다양한 거래를 섞어 거래를 보내는 이와 받는 이를 식별할 수 없게 해주는 [프라이빗센드\(PrivateSend\)](https://www.dash.org/news/dashs-privatesend-what-makes-digital-cash-fungible/)의 기능을 수행한다. 익명성은 화폐에 필요한 중요한 특징인 [등가성\(fungibility\)](https://en.wikipedia.org/wiki/Fungibility)과 큰 관련이 있다. 화폐의 등가성이란 **같은 단위의 화폐는 모두 같은 가치를 지녀야 한다**는 것이다. 예를 들어 모든 일만원권 지폐는 같은 가치를 지녀야 한다. 만약 같은 일만원권 지폐가 지폐마다 그 가치가 다르다면 해당 지폐를 받는 사람은 그 지폐의 가치를 신뢰할 수 없게 되어 화폐 시스템의 기본인 신뢰에 금이 가게 되기 때문이다. 비트코인의 경우 거래역사\(transaction history\)가 모두 공개되기 때문에 같은 1BTC라 할지라도 가치가 다를 수 있다. 예를 들어 테러리스트의 자금 유치에 사용되었던 1BTC은 방금 막 발행된 1BTC에 비해 가치가 낮을 수 있는 것이다. 따라서 화폐의 익명성은 각각의 화폐의 거래역사를 추적불가능\(untraceable\)하게 하여 동일 단위의 화폐가 모두 동일한 가치를 지니는 등가성\(fungibility\)을 보장하게 된다. 
 
+#### 3.2. 가치의 이동\(moving value\)
+
+* 위에서 언급한 암호화 화폐의 경우 토큰의 자유로운 이동을 
+* [리플\(Ripple\)](https://ripple.com/), [스텔라\(Stellar\)](https://www.stellar.org/): 리플과 스텔라는 직접적으로 화폐의 성격을 띄진 않지만 기존의 금융 시스템과의 통합을 통해 기존의 화폐 및 각종 금융상품 등의 거래 및 교환을 안전하고 효율적으로 할 수 있도록 도와주는 플랫폼이다. 
+
 ABRA
 
 aeternity
 
-Ripple, Stellar, Dash
+Ripple, Stellar
 
 Bitshares
 

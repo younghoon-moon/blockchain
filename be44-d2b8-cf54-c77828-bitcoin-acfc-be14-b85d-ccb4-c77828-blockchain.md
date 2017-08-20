@@ -1,6 +1,6 @@
 # 비트코인\(Bitcoin\)과 블록체인\(blockchain\) {#d}
 
-2008년 11월 1일 사토시 나카모토\(Satoshi Nakamoto\)라는 가명의 인물이 [암호학 메일링 리스트](http://satoshi.nakamotoinstitute.org/emails/cryptography/1/#selection-14.11-51.41)를 통해[ "비트코인: P2P 전자화폐 시스템 \(Bitcoin: A Peer-to-Peer Electronic Cash System\)"](http://www.bitcoin.org/bitcoin.pdf)이라는 제목의 백서 공개하였다. 이후 메일링 리스트에 포함되어 있던 다른 사람들과 [지속적으로 의견을 교류](http://satoshi.nakamotoinstitute.org/emails/cryptography/)하고 이 2009년 1월 9일 [비트코인 버전 0.1을 출시](http://satoshi.nakamotoinstitute.org/emails/cryptography/16/#selection-19.39-23.43)하였다.
+2008년 11월 1일 사토시 나카모토\(Satoshi Nakamoto\)라는 가명의 인물이 [암호학 메일링 리스트](http://satoshi.nakamotoinstitute.org/emails/cryptography/1/#selection-14.11-51.41)를 통해[ "비트코인: P2P 전자화폐 시스템 \(Bitcoin: A Peer-to-Peer Electronic Cash System\)"](http://www.bitcoin.org/bitcoin.pdf)이라는 제목의 백서를 공개하였다. 이후 메일링 리스트에 포함되어 있던 다른 사람들과 [지속적으로 의견을 교류](http://satoshi.nakamotoinstitute.org/emails/cryptography/)하고 이 2009년 1월 9일 [비트코인 버전 0.1을 출시](http://satoshi.nakamotoinstitute.org/emails/cryptography/16/#selection-19.39-23.43)하였다.
 
 ### 1. 비트코인이란 무엇인가?
 
