@@ -34,7 +34,9 @@
 
 해외송금의 경우 여러 금융기관을 거쳐 이루어지기 때문에 수수료가 매우 높다. [2012년 기준 이주자\(migrant\)에 의한 국제 송금액은 401억달러](http://blogs.worldbank.org/psd/putting-87-billion-back-pockets-asia-s-migrants)였으며 [평균 송금 수수료는 2017년 6월 기준 7.32%](https://remittanceprices.worldbank.org/sites/default/files/rpw_report_june_2017.pdf)였다. 우리나라에 거주하는 이주 노동자의 경우데도 본국으로 돈을 송금하는데 상당히 많은 수수료를 지불하는데 한국에서 베트남으로 24만원을 송금한다고 하면 [국민은행 혹은 웨스턴유니언\(Western Union\)을 사용하는 경우 각각 21,456원\(8.94%\), 20,688원\(8.62%\)의 높은 수수료를 지불](http://remittanceprices.worldbank.org/en/corridor/South-Korea/Vietnam)해야 한다. 특히 개발도상국들의 낙후된 금융 인프라를 고려하면 실제로 송금받은 돈을 인출하기 위해 멀리 떨어진 은행에 방문해야 하기 때문에 추가적인 시간과 교통비를 고려하면 실질적인 수수료는 더 높을 수 밖에 없다. 가난한 사람들이 더 많은 수수료를 지불해야 하는 악순환이 생긴다. 타지크스탄\(Tajikistan\) 키르기스스탄\(Kyrgyz Republic\), 네팔\(Nepal\)은 본국으로 돈을 송금하는 국제송금\(remittances\)금액이 [GDP의 각각 47%, 31%, 22%를 차지](http://blogs.worldbank.org/psd/putting-87-billion-back-pockets-asia-s-migrants)하는 만큼 자국 노동자들의 국제송금이 경제의 중요한 역할을 담당하기 때문에 송금 수수료 자체가 국가 경제에 매우 큰 영향을 미친다. 특히 우리가 일상생활에서 사용하는 신용카드 결제의 경우에도 중간 수수료가 약 3% 정도로서 결국 소비자들과 상인들이 이 비용을 지불하는 대신 신용카드회사 및 결제 서비스 제공업체들은 두둑한 수수료를 챙긴다.
 
-#### 1.6. **많은 서류작업\(lots of paperwork\)**:
+#### 1.6. **많은 서류작업\(lots of paperwork\)**
+
+은행에서 단순 계좌를 생성하는데만 해도 많은 양의 서류에 서명하고 각종 약관에 동의해야 한다. 
 
 #### 1.7. **사생활 보호\(privacy\)**
 
@@ -124,15 +126,7 @@ the DAO
 
 #### 부동산\(real estate\) 시장
 
-전 세계 거주용 부동산 시장 규모 162조 달러.
-
-20조 달러의 유휴자본\(dead capital\).
-
-개발 도상국은 제대로 된 부동산 등록 시스템 부재
-
-각종 사기\(fraud\)
-
-국가간 부동산 거래의 비효율성과 불편함
+전 세계 거주용 부동산 시장 규모 162조 달러 규모이며 이 중 20조 달러의 유휴자본\(dead capital\)이다. 개발 도상국은 제대로 된 부동산 등록 시스템 부재하며 부동산 관련 각종 사기\(fraud\)는 끊이질 않는다. 특히 국가간 부동산을 거래하는 경우에는 상당한 비효율성과 불편함이 뒤따르는 등 부동산 시
 
 the number of transactions in real estate trading is relatively low due to the nature of the sector and the relatively high value of real estate assets
 
