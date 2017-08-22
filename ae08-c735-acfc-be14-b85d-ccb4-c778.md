@@ -26,31 +26,17 @@
 
 현재 은행들은 자신만의 중앙화된 데이터베이스를 사용하여 고객들의 거래 내역 등을 포함한 다양한 종류의 금융 데이터를 저장한다. 중앙화된 데이터베이스는 금융거래를 빠르고 효율적으로 처리할 수 있는 장점이 있지만 중앙 데이터베이스가 단일 실패점\(single point of failure\)으로 작용해 해킹 및 각종 사생활 침해에 취약하고 서로 다른 시스템간 상호운용성\(interoperability\)이 현저히 떨어진다는 단점이 있다. 특히 현재 [SWIFT에 가입되어 있는 은행만 9,000여 곳이 넘으며 전 세계적으로 약 25,000개의 은행이 존재](https://www.linkedin.com/pulse/how-many-banks-globally-david-gyori)할 정도로 전 세계적으로 수많은 금융기관들이 존재하는데 이들이 사용하고 있는 낡은 중앙화된 시스템으로 인해 각종 금융거래시에 많은 비효율성이 발생하고 이는 직접적으로 거래 수수료의 증가로 이어진다.
 
-이러한 비효율성이 극명하게 드러나는 경우가 해외송금\(remittance\)의 경우이다. 한 국가의 은행 계좌에서 타 국가의 은행 계좌로 돈을 송금하기 위해서는 여러 금융기관의 시스템을 거쳐 이루어지는데 이 과정에서 매우 높은 송금 수수료가 발생한다. 우리나라에 거주하는 이주 노동자의 경우데도 본국으로 돈을 송금하는데 상당히 많은 수수료를 지불하는데 한국에서 베트남으로 24만원을 송금한다고 하면 [국민은행 혹은 웨스턴유니언\(Western Union\)을 사용하는 경우 각각 21,456원\(8.94%\), 20,688원\(8.62%\)의 높은 수수료를 지불](http://remittanceprices.worldbank.org/en/corridor/South-Korea/Vietnam)해야 한다. 실제 [2012년 기준 이주자\(migrant\)에 의한 국제 송금액은 401억달러](http://blogs.worldbank.org/psd/putting-87-billion-back-pockets-asia-s-migrants)였으며 [평균 송금 수수료는 2017년 6월 기준 7.32%](https://remittanceprices.worldbank.org/sites/default/files/rpw_report_june_2017.pdf)였으며 몇몇 아프리카 국가들에 돈을 송금하는 경우 [20%가 넘는 송금 수수료가 부과](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Botswana)되는 경우도 있다. 특히 개발도상국들의 낙후된 금융 인프라를 고려하면 송금받은 돈을 인출하기 위해 멀리 떨어진 은행에 방문하기 위해 소요되는 추가적인 시간과 교통비를 고려하면 실질적인 수수료는 더 높을 수 밖에 없다. 가난한 사람들이 더 많은 수수료를 지불해야 하는 악순환이 생긴다. 타지크스탄\(Tajikistan\) 키르기스스탄\(Kyrgyz Republic\), 네팔\(Nepal\)은 본국으로 돈을 송금하는 국제송금\(remittances\)금액이 [GDP의 각각 47%, 31%, 22%를 차지](http://blogs.worldbank.org/psd/putting-87-billion-back-pockets-asia-s-migrants)하는 만큼 자국 노동자들의 국제송금이 경제의 중요한 역할을 담당하기 때문에 송금 수수료 자체가 국가 경제에 매우 큰 영향을 미친다. 
+이러한 비효율성이 극명하게 드러나는 경우가 해외송금\(remittance\)의 경우이다. 한 국가의 은행 계좌에서 타 국가의 은행 계좌로 돈을 송금하기 위해서는 여러 금융기관의 시스템을 거쳐 이루어지는데 이 과정에서 매우 높은 송금 수수료가 발생한다. 우리나라에 거주하는 이주 노동자의 경우데도 본국으로 돈을 송금하는데 상당히 많은 수수료를 지불하는데 한국에서 베트남으로 24만원을 송금한다고 하면 [국민은행 혹은 웨스턴유니언\(Western Union\)을 사용하는 경우 각각 21,456원\(8.94%\), 20,688원\(8.62%\)의 높은 수수료를 지불](http://remittanceprices.worldbank.org/en/corridor/South-Korea/Vietnam)해야 한다. 실제 [2012년 기준 이주자\(migrant\)에 의한 국제 송금액은 401억달러](http://blogs.worldbank.org/psd/putting-87-billion-back-pockets-asia-s-migrants)였으며 [평균 송금 수수료는 2017년 6월 기준 7.32%](https://remittanceprices.worldbank.org/sites/default/files/rpw_report_june_2017.pdf)였으며 몇몇 아프리카 국가들에 돈을 송금하는 경우 [20%가 넘는 송금 수수료가 부과](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Botswana)되는 경우도 있다. 특히 개발도상국들의 낙후된 금융 인프라를 고려하면 송금받은 돈을 인출하기 위해 멀리 떨어진 은행에 방문하기 위해 소요되는 추가적인 시간과 교통비를 고려하면 실질적인 수수료는 더 높을 수 밖에 없다. 가난한 사람들이 더 많은 수수료를 지불해야 하는 악순환이 생긴다. 타지크스탄\(Tajikistan\) 키르기스스탄\(Kyrgyz Republic\), 네팔\(Nepal\)은 본국으로 돈을 송금하는 국제송금\(remittances\)금액이 [GDP의 각각 47%, 31%, 22%를 차지](http://blogs.worldbank.org/psd/putting-87-billion-back-pockets-asia-s-migrants)하는 만큼 자국 노동자들의 국제송금이 경제의 중요한 역할을 담당하기 때문에 송금 수수료 자체가 국가 경제에 매우 큰 영향을 미친다.
 
-이 뿐만 아니라 우리가 일상생활에서 사용하는 신용카드 또한 [결제 수수료가 최대 2.5%](http://www.junggi.co.kr/article/articleView.html?no=18568)로서 수수료 부담을 소상공인들이 떠앉는 대신 신용카드 회사 및 결제 서비스 제공업체들은 두둑한 수수료를 챙긴다. 중소자영업자들의 이익금이 매출의 5%가 넘지 않는 상황에서 카드 수수료가 2.5%라면 자영업자들의 순이익의 약 50%를 카드사가 가져가게 된다. 
+이 뿐만 아니라 우리가 일상생활에서 사용하는 신용카드 또한 [결제 수수료가 최대 2.5%](http://www.junggi.co.kr/article/articleView.html?no=18568)로서 수수료 부담을 소상공인들이 떠앉는 대신 신용카드 회사 및 결제 서비스 제공업체들은 두둑한 수수료를 챙긴다. 중소자영업자들의 이익금이 매출의 5%가 넘지 않는 상황에서 카드 수수료가 2.5%라면 자영업자들의 순이익의 약 50%를 카드사가 가져가게 된다.
 
-#### 1.3. **청산\(settlement\)**
+#### 1.4. **해킹 및 사기\(hacking & fraud\)**
 
-대부분의 금융거래의 경우 청산에 평균 약 3영업일\(D+3\)이 소요된다.
+현재 금융기관의 중앙 데이터베이스는 단일 실패점\(single point of failure\)으로 작용해 해킹당하는 경우 막대한 경제적 손실을 입게 된다. 실제로 2016년 ["Lazarus"라는 가명을 사용하는 해커](https://en.wikipedia.org/wiki/2015–2016_SWIFT_banking_hack)가 국제 송금망인 [스위프트\(SWIFT: Society for Worldwide Interbank Financial Telecommunication\)망](https://en.wikipedia.org/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication)을 해킹하여 뉴욕 연방준비은행\(FRB: Federal Reserve Bank\)의 [방글라데시 중앙은행 계좌로부터 약 1억달러를 탈취](http://money.cnn.com/2016/05/26/technology/swift-bank-hack-philippines-lazarus/index.html?iid=EL)한 사건이 있었다. 이와 더불어 2015~2016년에 걸쳐 [베트남](http://money.cnn.com/2016/05/20/news/swift-bank-attack-global-ecuador/index.html?iid=EL), [필리핀](http://money.cnn.com/2016/05/26/technology/swift-bank-hack-philippines-lazarus/index.html?iid=EL), [에콰도르](http://money.cnn.com/2016/05/20/news/swift-bank-attack-global-ecuador/index.html?iid=EL)에서도 SWIFT망 해킹으로 인해 수천만 달러의 자금이 도난 당했다. 각국 중앙은행을 포함하여 전 세계의 대형 은행들이 서로간에 자금을 주고받을 때 사용하는 시스템으로서 "[결제 네트워크의 롤스로이스\(Rollys-Royce\)](https://www.nytimes.com/2016/05/01/business/dealbook/hackers-81-million-sneak-attack-on-world-banking.html)"라 불리 정도로 안전하다고 여겨졌던 스위프트망마저 해킹에 취약하다는 사실이 밝혀지면서 은행과 금융회사들의 시스템 보안 문제가 더욱 붉어졌다. 이토록 중앙 데이터베이스가 해킹당하는 경우 해커는 막대한 양의 자금을 탈취할 수 있을 뿐더러 전체적인 시스템의 안정성이 한 번에 무너지게 된다.
 
-#### 1.4. **신원관리\(identity management\)**
+중앙화된 데이터 인프라의 문제는 **사생활\(privacy\) 침해**의 문제를 야기한다. 실제로 [2013년 6월 한국의 주요 카드사가 보유하고 있던 1억 4,000만 건\(대한민국 국민 2명당 1명에 해당\)이 넘는 개인정보가 유출](https://ko.wikipedia.org/wiki/2014%EB%85%84_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4_%EB%8C%80%EB%9F%89%EC%9C%A0%EC%B6%9C_%EC%82%AC%EA%B1%B4)된 사건이 있었는데 이 뿐만 아니라 금융기관에 있던 데이터가 해킹되거나 내부자에 의해 고의적으로 유출되어 사용자의 사생활이 침해당하는 현상이 심심찮게 발생한다. 이러한 개인정보의 유출은 각종 범죄에 사용되어 추가적인 피해를 발생시킬 뿐만 아니라 사회 전반의 신뢰기반을 약화시키게 된다. 
 
-금융기관들은 사용자의 신원을 확인하기 위해 불필요하게 복잡하고 까다로운 인증절차를 거치게 된다. 우리나라의 공인인증서의 경우 발급하는 절차가 까다로울 뿐 아니라 한 번 발급되면 특정 하드웨어에서만 사용할 수 있어 효율성이 매우 떨어진다.
-
-#### 1.6. **많은 서류작업\(lots of paperwork\)**
-
-은행에서 단순 계좌를 생성하는데만 해도 많은 양의 서류에 서명하고 각종 약관에 동의해야 한다.
-
-#### 1.7. **사생활 보호\(privacy\)**
-
-자신의 금융 데이터가 중앙서버에 저장되기 때문에 해킹 혹은 검열\(censorship\)에 의해 사생활이 노출된 염려가 있다.
-
-#### 1.8. **해킹 및 사기\(hacking & fraud\)**
-
-금융기관이 해킹당하는 사례는 많다. 2016년 ["Lazarus"라는 가명을 사용하는 해커](https://en.wikipedia.org/wiki/2015–2016_SWIFT_banking_hack)가 국제 송금망인 [스위프트\(SWIFT: Society for Worldwide Interbank Financial Telecommunication\)망](https://en.wikipedia.org/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication)을 해킹하여 뉴욕 연방준비은행\(FRB: Federal Reserve Bank\)의 [방글라데시 중앙은행 계좌로부터 약 1억달러를 탈취](http://money.cnn.com/2016/05/26/technology/swift-bank-hack-philippines-lazarus/index.html?iid=EL)하였다. 이와 더불어 2015~2016년에 걸쳐 [베트남](http://money.cnn.com/2016/05/20/news/swift-bank-attack-global-ecuador/index.html?iid=EL), [필리핀](http://money.cnn.com/2016/05/26/technology/swift-bank-hack-philippines-lazarus/index.html?iid=EL), [에콰도르](http://money.cnn.com/2016/05/20/news/swift-bank-attack-global-ecuador/index.html?iid=EL)에서도 SWIFT망 해킹으로 인해 수천만 달러의 자금이 도난 당했다. 각국 중앙은행을 포함하여 전 세계의 대형 은행들이 서로간에 자금을 주고받을 때 사용하는 시스템으로서 "[결제 네트워크의 롤스로이스\(Rollys-Royce\)](https://www.nytimes.com/2016/05/01/business/dealbook/hackers-81-million-sneak-attack-on-world-banking.html)"라 불리 정도로 안전하다고 여겨졌던 스위프트망마저 해킹에 취약하다는 사실이 밝혀지면서 은행과 금융회사들의 시스템 보안 문제가 더욱 붉어졌다.
-
-#### 1.9. **금융의 자유\(financial freedom\) 부재 **
+#### 1.5. **금융의 자유\(financial freedom\) 부재 **
 
 현재 약 25억명의 사람들이 은행계좌를 보유하고 있지 않고 기본적인 은행 서비스에 대한 접근이 불가능한\(unbanked\) 상황이다.
 
