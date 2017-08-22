@@ -44,3 +44,5 @@ ICO\(Initial Coin Offering\)
 
 기존기업들의 주식을 토큰화하여 발행하는 방법\(e.g. 뉴머라이, 위워크\)
 
+오미세고\(OmiseGO\), 뉴머라이\(Numerai\) 
+
