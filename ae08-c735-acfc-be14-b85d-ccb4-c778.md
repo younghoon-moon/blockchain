@@ -46,7 +46,7 @@
 
 블록체인은 중개인 및 중앙기관 없이 분산화된 방식으로 거래내역을 기록하고 계약을 체결 및 이행할 수 있도록 한다. 거래내역과 계약의 내용 및 실행내역들이 블록체인 상에 비가역적으로\(immutably\) 기록되고 어떠한 기관 및 개인도 시스템의 합의\(consensus\) 없이 기록된 내용을 바꿀 수 없어 거래 상대방 리스크와 중개인 리스크를 비롯한 현재 금융이 가지고 있는 많은 문제들을 해결하고 효율성을 증대시킬 수 있다. 이러한 이유로 스페인의 산탄데르\(Santander\) 은행은 블록체인을 사용하여 [2022년까지 은행들이 인프라 비용을 150-200억달러 가량 줄일 수 있을 것으로 예상](https://www.coindesk.com/santander-blockchain-tech-can-save-banks-20-billion-a-year/)하고 있으며 다양한 금융 기관 및 스타트업들이 블록체인을 사용하여 금융을 혁신시키려 하고 있다. 특히나 이들 중 상당히 야심찬 프로젝트들도 많은데 이들은 단순히 현재 금융기관의 효율성을 증대시키는 것 뿐 아니라 비가역적인 데이터의 기록과 암호화 토큰의 네트워크 효과를 바탕으로 하여 혁신적인 금융의 비즈니스 모델들을 탄생시키고 있다.
 
-#### 2.1. **화폐 \(Currency\)**
+#### 2.1. 암호화 **화폐 \(Cryptocurrency\)**
 
 각 국가의 중앙은행의 신뢰를 바탕으로 발행되는 법정화폐\(fiat currency\)는 많은 문제점을 가지고 있다. 비트코인은 2008년 금융위기 이후 처음 세상에 알려졌는데 당시는 많은 사람들이 미 정부의 구제금융\(bailout\)을 비판하며 월스트리트 점령운동\(Occupy Wall Street\)을 진행하고 있을 때였다. 월스트리트와 결탁한 권력자들이 대형 투자은행을 구제하기 위해 돈을 찍어내 대형 투자은행 지분의 대부분을 보유하고 있던 상위 1%들은 간접적으로 [조폐이익\(seigniorage\)](https://en.wikipedia.org/wiki/Seigniorage)을 가져가고 99%의 일반 시민들이 이를 [인플레이션세\(inflation tax\)](https://en.wikipedia.org/wiki/Seigniorage#Seigniorage_as_a_tax)의 형식으로 부담하게 됨으로써 하위 99%가 보유하고 있던 부를 상위 1%에게 이전했다는 것이 비판의 골자였다. 비트코인은 [사이퍼 펑크\(cypherpunk\)](https://en.wikipedia.org/wiki/Cypherpunk)를 포함한 [무정부주의자\(anarchist\)](https://ko.wikipedia.org/wiki/아나키즘) 및 [자유주의자\(Libertarian\)](https://ko.wikipedia.org/wiki/자유지상주의)들의 열렬한 지지를 받았는데 그들은 발행량이 한정되어 있고 중앙기관이 통제 및 검열할 수 없는 비트코인에 큰 매력을 느꼈기 때문이다.
 
@@ -54,11 +54,22 @@
 
 비트코인을 비롯한 블록체인 기반의 암호화화폐\(cryptocurrency\)는 대부분의 경우 발행량이 한정되어 있으며 화폐에 대한 정책 및 의사결정권한이 분산화된 생태계와 자유시장경제에 의해 결정된다. 비트코인의 등장 이후 수많은 알트코인\(altcoin: alternative coin\)들이 등장했는데 현재까지 수백개의 알트코인들이 시장에서 서로 경쟁하고 있다. 많은 사람들이 이를 오스트리아-헝가리 출신의 경제학자 [프리드리히 하이에크\(Friedrich Hayek\)](https://en.wikipedia.org/wiki/Friedrich_Hayek#Investment_and_choice)가 1976년 그의 저서 “[화폐의 탈국가화\(The Denationalization of Money\)](https://en.wikipedia.org/wiki/The_Denationalization_of_Money)”에서 주장한 민간 발행 화폐의 자유경쟁체계와 비교하기도 한다.
 
-비트코인은 분산화되어 있기 때문에 누구도 비트코인 시스템을 완전히 파괴하기란 불가능하며 비트코인 생태계 또한 개별 국가의 정책에 영향을 적게 받는다. 실제로 2017년 2월 [중국에서 자금세탁방지법\(AML: Anti-Money Laundering\)을 근거로 비트코인 거래소에서의 출금을 금지](https://www.coindesk.com/two-chinas-biggest-exchanges-stop-bitcoin-withdrawals/)한 약 4달의 기간동안 일본이 중국을 제치고 비트코인 거래량 1위가 되었으며 비트코인 가격도 오히려 상승했다.
+비트코인은 분산화되어 있기 때문에 누구도 비트코인 시스템을 완전히 파괴하기란 불가능하며 비트코인 생태계 또한 개별 국가의 정책에 영향을 적게 받는다. 실제로 2017년 2월 [중국에서 자금세탁방지법\(AML: Anti-Money Laundering\)을 근거로 비트코인 거래소에서의 출금을 금지](https://www.coindesk.com/two-chinas-biggest-exchanges-stop-bitcoin-withdrawals/)한 약 4달의 기간동안 일본이 중국을 제치고 비트코인 거래량 1위가 되었으며 비트코인 가격도 오히려 상승했다. 다음은 블록체인 기반의 다양한 화폐 시스템이다.
+
+* [**비트코인\(Bitcoin\)**](https://www.bitcoin.com/)**, **[**라이트코인\(Litecoin\)**](https://litecoin.com/): 비트코인과 라이트코인은 분산화된\(decentralized\) P2P 방식으로 중개인없이 발행되고 유통되는 전자화폐로서 인터넷에 접속할 수만 있다면 누구나 쉽게 계좌를 만들고 안전하게 코인을 사고 팔 수 있다. 중앙기관에 의해 발행량이 결정되는 국가 법정화폐\(fiat currency\)와 달리 발행량을 포함한 화폐와 관련된 모든 중요한 의사결정은 분산화된 합의\(consensus\)를 통해서 이루어지기 때문에 어느 한 기관 혹은 개인이 통제할 수 없다. 화폐의 발행 및 거래에 대한 정보는 블록체인이라는 데이터구조에 저장되는데 한 번 블록체인에 기록된 내역은 블록체인에 영구히 저장되어 누구나 열람할 수 있다. 비트코인 및 라이트코인과 같은 암호화화폐\(cryptocurrency\)는 기존의 중앙은행 및 은행과 비자\(Visa\)와 같은 결제업체의 역할을 분산화된 방식으로 구현함으로써 화폐의 발행과 유통의 탈중개인화\(disintermediation\)을 가져온다.
+
+* **익명성 화폐 -** [**지캐시\(ZCash\)**](https://z.cash/)**, **[**모네로\(Monero\)**](https://getmonero.org/)**, **[**대시\(Dash\)**](https://www.dash.org/): 비트코인의 경우 모든 거래 내역이 비트코인 블록체인에 투명하게\(transparent\) 공개된다. 물론 비트코인 사용자는 [26~35개의 알파벳과 숫자로\(alphanumeric\) 구성된 주소\(address\)](https://en.bitcoin.it/wiki/Address)를 가명\(pseudonym\)으로 사용하긴 하지만 다양한 방식\(e.g. 블록체인 분석\)을 통해 사용자와 주소를 연관\(associate\)시킬 수 있고 한 번 그 연관성이 식별되면 해당 주소를 통한 모든 비트코인 거래 내역을 누구나 볼 수 있어 사생활 보호에 취약하다는 지적이 계속되고 있다. 이러한 문제를 해결하고자 다양한 암호학적\(cryptographic\) 도구를 활용한 새로운 화폐들이 등장했는데 그 대표적인 코인으로는 지캐시\(ZCahs\)와 모네로\(Monero\) 그리고 대시\(Dash\)가 있다. **지캐시\(ZCash\)**는 [영지식증명\(zero-knowledge proof\)](https://en.wikipedia.org/wiki/Zero-knowledge_proof)을 활용한 [zk-SNARKs](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) 프로토콜을 통해 익명성\(confidentiality\)을 보장하는 화폐이며 **모네로\(Monero\)**는 [링 시그니처\(ring signature\)](https://en.wikipedia.org/wiki/Ring_signature), [비밀주소\(stealth address\)](https://getmonero.org/resources/moneropedia/stealthaddress.html), [익명거래\(CT: Confidential Transaction\)](https://elementsproject.org/elements/confidential-transactions/) 등의 다양한 기술을 결합하여 모든 거래를 불투명하게 만드는 화폐이다. 또 다른 디지털 화폐인 **대시\(Dash\)**는 [마스터노드\(masternode\)](https://dashpay.atlassian.net/wiki/spaces/DOC/pages/1867864/What+is+a+masternode)가 존재하여 다양한 거래를 섞어 거래를 보내는 이와 받는 이를 식별할 수 없게 해주는 [프라이빗센드\(PrivateSend\)](https://www.dash.org/news/dashs-privatesend-what-makes-digital-cash-fungible/)의 기능을 수행한다. 익명성은 화폐에 필요한 중요한 특징인 [등가성\(fungibility\)](https://en.wikipedia.org/wiki/Fungibility)과 큰 관련이 있다. 화폐의 등가성이란 **같은 단위의 화폐는 모두 같은 가치를 지녀야 한다**는 것이다. 예를 들어 모든 일만원권 지폐는 같은 가치를 지녀야 한다. 만약 같은 일만원권 지폐가 지폐마다 그 가치가 다르다면 해당 지폐를 받는 사람은 그 지폐의 가치를 신뢰할 수 없게 되어 화폐 시스템의 기본인 신뢰에 금이 가게 되기 때문이다. 비트코인의 경우 거래역사\(transaction history\)가 모두 공개되기 때문에 같은 1BTC라 할지라도 가치가 다를 수 있다. 예를 들어 테러리스트의 자금 유치에 사용되었던 1BTC은 방금 막 발행된 1BTC에 비해 가치가 낮을 수 있는 것이다. 따라서 화폐의 익명성은 각각의 화폐의 거래역사를 추적불가능\(untraceable\)하게 하여 동일 단위의 화폐가 모두 동일한 가치를 지니는 등가성\(fungibility\)을 보장하게 된다.
 
 #### 2.2. 가치의 이동 및 거래\(moving and trading value\)
 
-블록체인은 결제와 해외송금 등 가치의 이동이 필요한 서비스에 사용될 수 있다. 해외송금을 하기 위해서는 웨스턴유니언\(Western Union\)과 같은 해외송급 서비스를 사용해야 하는데 많게는 [20%가 넘는 송금 수수료가 부과](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Botswana)되는 경우도 있으며 단순 카드결제같은 경우에도 체계가 잘 갖춰진 우리나라의 경우 2%가 넘는 수수료를 지불하는 등 가치가 한 곳에서 다른 곳으로 이동하는데 많은 마찰\(friction\)이 있다. 특히 수수료뿐 아니라 해외에 돈을 송금하기 위해서는 신원확인부터 다수의 서류를 작성하는 등의 지나치게 복잡한 절차를 거쳐야 하기 때문에 시스템의 비효율성은 더욱 커진다. 블록체인을 사용하면 여러 단계의 중개기관을 거치지 않고 사용자간 직접적인 가치의 교환을 가능하므로 송금 및 거래 수수료를 획기적으로 줄일 수 있을 뿐더러 여러 복잡한 서류작성 없이 전 세계 누구와도 신뢰할 수 있는 방식으로 안전하게 거래할 수 있게 된다. 블록체인은 단순 화폐뿐 아니라 각종 금융, 비금융 및 실물자산의 직접적인 거래도 가능케 한다. 예를 들어 [컬러드 코인\(colored coins\)](http://coloredcoins.org/) 같은 경우에는 메타데이터\(metadata\)를 블록체인에 기록할 수 있도록 함으로써 각종 자산에 대한 소유권을 블록체인 상에 기록할 수 있도록 도와주는데 이를 바탕으로 블록체인에 기록된 자동차 소유권들과 빌딩 소유권을 직접 맞바꾸는 방식의 거래도 가능하다. 
+블록체인은 결제와 해외송금 등 가치의 이동이 필요한 서비스에 사용될 수 있다. 해외송금을 하기 위해서는 웨스턴유니언\(Western Union\)과 같은 해외송급 서비스를 사용해야 하는데 많게는 [20%가 넘는 송금 수수료가 부과](https://remittanceprices.worldbank.org/en/corridor/South-Africa/Botswana)되는 경우도 있으며 단순 카드결제같은 경우에도 체계가 잘 갖춰진 우리나라의 경우 2%가 넘는 수수료를 지불하는 등 가치가 한 곳에서 다른 곳으로 이동하는데 많은 마찰\(friction\)이 있다. 특히 수수료뿐 아니라 해외에 돈을 송금하기 위해서는 신원확인부터 다수의 서류를 작성하는 등의 지나치게 복잡한 절차를 거쳐야 하기 때문에 시스템의 비효율성은 더욱 커진다. 블록체인을 사용하면 여러 단계의 중개기관을 거치지 않고 사용자간 직접적인 가치의 교환을 가능하므로 송금 및 거래 수수료를 획기적으로 줄일 수 있을 뿐더러 여러 복잡한 서류작성 없이 전 세계 누구와도 신뢰할 수 있는 방식으로 안전하게 거래할 수 있게 된다.
+
+위와 같이 블록체인 기반의 암호화 화폐\(cryptocurrency\)의 거래는 블록체인 상에서 안전하게 처리될 수 있다. 이와 더불어 기존의 금융 시스템과 블록체인 기술을 통합을 통해 기존의 금융자산을 효율적이고 안전하게 거래할 수 있도록 도와주는 허가형 및 비허가형 블록체인 플랫폼이 존재한다.
+
+* [리플\(Ripple\)](https://ripple.com/), [스텔라\(Stellar\)](https://www.stellar.org/): 리플과 스텔라는 직접적으로 화폐의 성격을 띄진 않지만 기존의 금융 시스템과의 통합을 통해 기존의 화폐 및 각종 금융상품 등의 거래 및 교환을 안전하고 효율적으로 할 수 있도록 도와주는 플랫폼이다.
+* R3, EEA: R3와 EEA는 허가형 블록체인로서 
+
+블록체인은 단순 화폐뿐 아니라 각종 금융, 비금융 및 실물자산의 직접적인 거래도 가능케 한다. 예를 들어 [컬러드 코인\(colored coins\)](http://coloredcoins.org/) 같은 경우에는 메타데이터\(metadata\)를 블록체인에 기록할 수 있도록 함으로써 각종 자산에 대한 소유권을 블록체인 상에 기록할 수 있도록 도와주는데 이를 바탕으로 블록체인에 기록된 자동차 소유권들과 빌딩 소유권을 직접 맞바꾸는 형태의 거래도 가능하다.
 
 #### 2.3. 자금유치\(Fund raising\)와 벤처캐피탈\(Venture Capital\)
 
@@ -74,9 +85,9 @@
 
 블록체인을 사용하면 비가역적인 방식으로 누구나 신뢰할 수 있도록 각종 금융 정보를 기록하는 것이 가능하다.
 
-#### 2.8. 규제 준수\(regulatory compliance\) 및 과세\(tax\)
+#### 2.8. 규제 준수\(regulatory compliance\)
 
-블록체인에는 정보가 비가역적으로 기록 및 저장되고 한 번 기록된 데이터는 영원히 블록체인에 남아있어 금융과 관련한 각종 규제의 준수여부를 객관적이고 효율적으로 확인할 수 있게 된다. 실제로 미국의 웰스파고\(Wells Fargo\) 은행은 고객들의 [모기지\(mortgage\)와 관련된 문서 약 40만건을 분실](http://content.time.com/time/magazine/article/0,9171,2032110,00.html)하였는데 [문서를 분실한 사실을 고객에게 누설하지 않도록 압력을 행사하였으며 이를 비윤리적이라 비판한 직원을 해고](http://www.reuters.com/article/us-wells-fargo-lawsuit-idUSKCN0XX2ET)하였다.
+블록체인에는 정보가 비가역적으로 기록 및 저장되고 한 번 기록된 데이터는 영원히 블록체인에 남아있어 금융과 관련한 각종 규제의 준수여부를 객관적이고 효율적으로 확인할 수 있게 된다. 실제로 미국의 웰스파고\(Wells Fargo\) 은행은 고객들의 [모기지\(mortgage\)와 관련된 문서 약 40만건을 분실](http://content.time.com/time/magazine/article/0,9171,2032110,00.html)하였는데 [문서를 분실한 사실을 고객에게 누설하지 않도록 압력을 행사하였으며 이를 비윤리적이라 비판한 직원을 해고](http://www.reuters.com/article/us-wells-fargo-lawsuit-idUSKCN0XX2ET)하였다. 기존의 시스템에서는 이러한 중요한 정보가 중앙 데이터베이스 한 곳에 집중되어 있어 임의로 데이터를 삭제하는 것이 가능하며 데이터에 대한 접근이 제한적이기 때문에 금융 기관들의 규제 준수여부를 파악하기가 까다로웠다. 하지만 이러한 정보들이 블록체인에 기록되게 되면 데이터를 위변조하거나 삭제하는 것이 원천적으로 불가능하며 데이터를 분실할 염려도 크게 줄어든다.
 
 #### 2.9. **금융 데이터의 기록 및 보관**
 
@@ -84,17 +95,10 @@
 
 ### 3. 블록체인 금융 서비스
 
-#### 3.1. 화폐\(currency\)
-
-* [**비트코인\(Bitcoin\)**](https://www.bitcoin.com/)**, **[**라이트코인\(Litecoin\)**](https://litecoin.com/): 비트코인과 라이트코인은 분산화된\(decentralized\) P2P 방식으로 중개인없이 발행되고 유통되는 전자화폐로서 인터넷에 접속할 수만 있다면 누구나 쉽게 계좌를 만들고 안전하게 코인을 사고 팔 수 있다. 중앙기관에 의해 발행량이 결정되는 국가 법정화폐\(fiat currency\)와 달리 발행량을 포함한 화폐와 관련된 모든 중요한 의사결정은 분산화된 합의\(consensus\)를 통해서 이루어지기 때문에 어느 한 기관 혹은 개인이 통제할 수 없다. 화폐의 발행 및 거래에 대한 정보는 블록체인이라는 데이터구조에 저장되는데 한 번 블록체인에 기록된 내역은 블록체인에 영구히 저장되어 누구나 열람할 수 있다. 비트코인 및 라이트코인과 같은 암호화화폐\(cryptocurrency\)는 기존의 중앙은행 및 은행과 비자\(Visa\)와 같은 결제업체의 역할을 분산화된 방식으로 구현함으로써 화폐의 발행과 유통의 탈중개인화\(disintermediation\)을 가져온다. 
-* **익명성 화폐 -** [**지캐시\(ZCash\)**](https://z.cash/)**, **[**모네로\(Monero\)**](https://getmonero.org/)**, **[**대시\(Dash\)**](https://www.dash.org/): 비트코인의 경우 모든 거래 내역이 비트코인 블록체인에 투명하게\(transparent\) 공개된다. 물론 비트코인 사용자는 [26~35개의 알파벳과 숫자로\(alphanumeric\) 구성된 주소\(address\)](https://en.bitcoin.it/wiki/Address)를 가명\(pseudonym\)으로 사용하긴 하지만 다양한 방식\(e.g. 블록체인 분석\)을 통해 사용자와 주소를 연관\(associate\)시킬 수 있고 한 번 그 연관성이 식별되면 해당 주소를 통한 모든 비트코인 거래 내역을 누구나 볼 수 있어 사생활 보호에 취약하다는 지적이 계속되고 있다. 이러한 문제를 해결하고자 다양한 암호학적\(cryptographic\) 도구를 활용한 새로운 화폐들이 등장했는데 그 대표적인 코인으로는 지캐시\(ZCahs\)와 모네로\(Monero\) 그리고 대시\(Dash\)가 있다. **지캐시\(ZCash\)**는 [영지식증명\(zero-knowledge proof\)](https://en.wikipedia.org/wiki/Zero-knowledge_proof)을 활용한 [zk-SNARKs](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) 프로토콜을 통해 익명성\(confidentiality\)을 보장하는 화폐이며 **모네로\(Monero\)**는 [링 시그니처\(ring signature\)](https://en.wikipedia.org/wiki/Ring_signature), [비밀주소\(stealth address\)](https://getmonero.org/resources/moneropedia/stealthaddress.html), [익명거래\(CT: Confidential Transaction\)](https://elementsproject.org/elements/confidential-transactions/) 등의 다양한 기술을 결합하여 모든 거래를 불투명하게 만드는 화폐이다. 또 다른 디지털 화폐인 **대시\(Dash\)**는 [마스터노드\(masternode\)](https://dashpay.atlassian.net/wiki/spaces/DOC/pages/1867864/What+is+a+masternode)가 존재하여 다양한 거래를 섞어 거래를 보내는 이와 받는 이를 식별할 수 없게 해주는 [프라이빗센드\(PrivateSend\)](https://www.dash.org/news/dashs-privatesend-what-makes-digital-cash-fungible/)의 기능을 수행한다. 익명성은 화폐에 필요한 중요한 특징인 [등가성\(fungibility\)](https://en.wikipedia.org/wiki/Fungibility)과 큰 관련이 있다. 화폐의 등가성이란 **같은 단위의 화폐는 모두 같은 가치를 지녀야 한다**는 것이다. 예를 들어 모든 일만원권 지폐는 같은 가치를 지녀야 한다. 만약 같은 일만원권 지폐가 지폐마다 그 가치가 다르다면 해당 지폐를 받는 사람은 그 지폐의 가치를 신뢰할 수 없게 되어 화폐 시스템의 기본인 신뢰에 금이 가게 되기 때문이다. 비트코인의 경우 거래역사\(transaction history\)가 모두 공개되기 때문에 같은 1BTC라 할지라도 가치가 다를 수 있다. 예를 들어 테러리스트의 자금 유치에 사용되었던 1BTC은 방금 막 발행된 1BTC에 비해 가치가 낮을 수 있는 것이다. 따라서 화폐의 익명성은 각각의 화폐의 거래역사를 추적불가능\(untraceable\)하게 하여 동일 단위의 화폐가 모두 동일한 가치를 지니는 등가성\(fungibility\)을 보장하게 된다. 
-
 #### 3.2. 가치의 이동\(moving value\)
 
 * 위에서 언급한 암호화 화폐의 경우 토큰간 안전하고 효율적인 가치의 이동이 가능하다.  
-* [리플\(Ripple\)](https://ripple.com/), [스텔라\(Stellar\)](https://www.stellar.org/): 리플과 스텔라는 직접적으로 화폐의 성격을 띄진 않지만 기존의 금융 시스템과의 통합을 통해 기존의 화폐 및 각종 금융상품 등의 거래 및 교환을 안전하고 효율적으로 할 수 있도록 도와주는 플랫폼이다. 
-
-ABRA
+* ABRA
 
 Bitshares
 
