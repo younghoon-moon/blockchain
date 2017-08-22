@@ -34,9 +34,11 @@
 
 현재 금융기관의 중앙 데이터베이스는 단일 실패점\(single point of failure\)으로 작용해 해킹당하는 경우 막대한 경제적 손실을 입게 된다. 실제로 2016년 ["Lazarus"라는 가명을 사용하는 해커](https://en.wikipedia.org/wiki/2015–2016_SWIFT_banking_hack)가 국제 송금망인 [스위프트\(SWIFT: Society for Worldwide Interbank Financial Telecommunication\)망](https://en.wikipedia.org/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication)을 해킹하여 뉴욕 연방준비은행\(FRB: Federal Reserve Bank\)의 [방글라데시 중앙은행 계좌로부터 약 1억달러를 탈취](http://money.cnn.com/2016/05/26/technology/swift-bank-hack-philippines-lazarus/index.html?iid=EL)한 사건이 있었다. 이와 더불어 2015~2016년에 걸쳐 [베트남](http://money.cnn.com/2016/05/20/news/swift-bank-attack-global-ecuador/index.html?iid=EL), [필리핀](http://money.cnn.com/2016/05/26/technology/swift-bank-hack-philippines-lazarus/index.html?iid=EL), [에콰도르](http://money.cnn.com/2016/05/20/news/swift-bank-attack-global-ecuador/index.html?iid=EL)에서도 SWIFT망 해킹으로 인해 수천만 달러의 자금이 도난 당했다. 각국 중앙은행을 포함하여 전 세계의 대형 은행들이 서로간에 자금을 주고받을 때 사용하는 시스템으로서 "[결제 네트워크의 롤스로이스\(Rollys-Royce\)](https://www.nytimes.com/2016/05/01/business/dealbook/hackers-81-million-sneak-attack-on-world-banking.html)"라 불리 정도로 안전하다고 여겨졌던 스위프트망마저 해킹에 취약하다는 사실이 밝혀지면서 은행과 금융회사들의 시스템 보안 문제가 더욱 붉어졌다. 이토록 중앙 데이터베이스가 해킹당하는 경우 해커는 막대한 양의 자금을 탈취할 수 있을 뿐더러 전체적인 시스템의 안정성이 한 번에 무너지게 된다.
 
-중앙화된 데이터 인프라의 문제는 **사생활\(privacy\) 침해**의 문제를 야기한다. 실제로 [2013년 6월 한국의 주요 카드사가 보유하고 있던 1억 4,000만 건\(대한민국 국민 2명당 1명에 해당\)이 넘는 개인정보가 유출](https://ko.wikipedia.org/wiki/2014%EB%85%84_%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4_%EB%8C%80%EB%9F%89%EC%9C%A0%EC%B6%9C_%EC%82%AC%EA%B1%B4)된 사건이 있었는데 이 뿐만 아니라 금융기관에 있던 데이터가 해킹되거나 내부자에 의해 고의적으로 유출되어 사용자의 사생활이 침해당하는 현상이 심심찮게 발생한다. 이러한 개인정보의 유출은 각종 범죄에 사용되어 추가적인 피해를 발생시킬 뿐만 아니라 사회 전반의 신뢰기반을 약화시키게 된다. 
+중앙화된 데이터 인프라의 문제는 **사생활\(privacy\) 침해**의 문제를 야기한다. 실제로 [2013년 6월 한국의 주요 카드사가 보유하고 있던 1억 4,000만 건\(대한민국 국민 2명당 1명에 해당\)이 넘는 개인정보가 유출](https://ko.wikipedia.org/wiki/2014년_대한민국_개인정보_대량유출_사건)된 사건이 있었는데 이 뿐만 아니라 금융기관에 있던 데이터가 해킹되거나 내부자에 의해 고의적으로 유출되어 사용자의 사생활이 침해당하는 현상이 심심찮게 발생한다. 이러한 개인정보의 유출은 각종 범죄에 사용되어 추가적인 피해를 발생시킬 뿐만 아니라 사회 전반의 신뢰기반을 약화시키게 된다.
 
 #### 1.5. **금융의 자유\(financial freedom\) 부재 **
+
+[2015년 기준 약 20억명의 성인인구가 은행계좌를 보유하고 있지 않아](http://pubdocs.worldbank.org/en/113791483565360488/N2UnbankedV5.pdf) 각종 금융 시스템에 대한 접근이 불가능하다. 특히 사하라 이남 아프리카 지역에서는 은행계좌가 없는 이의 27%가 그 이유를 금융기관이 거리가 먼 곳에 위치하고 있기 때문이라고 하였으며 중동에서는 계좌를 보유하고 있지 않는 이의 41%가 
 
 현재 약 25억명의 사람들이 은행계좌를 보유하고 있지 않고 기본적인 은행 서비스에 대한 접근이 불가능한\(unbanked\) 상황이다.
 
