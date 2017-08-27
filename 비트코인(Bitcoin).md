@@ -73,6 +73,8 @@
 
 비트코인은 블록체인과 네트워크 등으로 이루어져있는 총체적인 비트코인 시스템을 지칭하기도 하지만 이와 동시에 비트코인 상에서 사용되는 화폐 혹은 토큰\(token\)으로서의 비트코인\(BTC\)을 지칭하기도 한다. 화폐 혹은 토큰으로서의 비트코인은 통상적인 화폐의 세 가지 기능 - 가치의 저장\(store of value\), 가치의 척도\(measure of value\), 가치의 교환\(medium of exchange\) - 을 수행하는 동시에 비트코인 시스템 상에서 특정 거래를 블록체인에 추가시키기 위해 발생하는 거래 수수료\(transaction fee\)를 지불하는 데에 사용된다. 이 때 지불되는 거래 수수료는 블록을 채굴하는 채굴자들에게 보상의 형식으로 지급된다.
 
+![alt text](https://bitcoinfactswiki.github.io/Controlled_supply-supply_over_block_height.png)
+
 비트코인은 발행량이 총 2,100만 비트코인\(BTC\)으로 정해져 있으며 2140년까지 발행량이 매 4년마다 반감되는 구조이다 \(현재에는 매 10분마다 12.5비트코인이 발행\). 2017년 8월 3일까지 [약 1,650만 비트코인이 발행](http://www.bitcoinblockhalf.com/)되었으며 이는 총 발행 예정량의 78.5%를 차지한다. 비트코인은 발행량이 정해져 있기 때문에 가치의 저장수단인 금\(gold\)과 종종 비교되곤 한다. 실제로 [2017년 3월 3일 1비트코인의 가격이 금 1온스\(ounce\)의 가격을 넘어](http://money.cnn.com/2017/03/03/investing/bitcoin-gold-price-value/index.html)섰으며 [2017년 8월에는 1비트코인 가격이 금 1온스 가격의 3배 가까이 되어](https://www.coindesk.com/bitcoin-is-now-worth-nearly-3-times-as-much-as-gold/) 화제가 되기도 했다.
 
 ### 3.5. 비트코인 네트워크란?
