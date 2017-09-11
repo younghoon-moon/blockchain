@@ -56,7 +56,10 @@
 
 [필라멘트(Filaments)](https://filament.com/)
 
-[Chain of Things(CoT)](https://www.chainofthings.com/): Chain of Things(CoT)는 블록체인을 사용하여 사물인터넷의 가장 핵심적인 보안문제를 해결할 수 있을 것인가에 대한 연구를 진행하는 컨소시엄으로서 스마트 기기 보안에 대한 오픈소스 표준을 수립하는데 초점을 두고 있다. CoT는 주요 보안 레이어에 초점을 두고 안전한 블록체인 기반의 IoT 스택을 실제로 구현하는 다양한 사례연구를 진행한다. 이러한 사례연구를 통해 IoT와 블록체인을 결합한 최적의 기술 스택은 어떠한 요소를 포함해야 하는지 혹은 기존의 보안 시스템보다 블록체인 기술이 더욱 적합한지 여부 등을 파악한다.
+[Chain of Things(CoT)](https://www.chainofthings.com/): Chain of Things(CoT)는 블록체인 기반의 사물인터넷의 보안 시스템에 대한 연구를 진행하는 컨소시엄으로서 **스마트 기기 보안의 오픈소스 표준을 수립**하는데 초점을 두고 있다. CoT는 블록체인 기반의 IoT 스택을 실제로 구현하는 다양한 사례연구를 진행하며 이러한 연구를 통해 IoT와 블록체인이 결합된 최적의 기술 스택의 조건을 식별하고 기존의 보안 시스템보다 블록체인 기술이 실제로 더욱 뛰어난지 여부 등을 파악한다.
+* 사례연구: [보안(security)](https://www.chainofthings.com/cs1chainofsecurity/), [태양열에너지(solar)](https://www.chainofthings.com/cs2chainofsolar/), [해운(shipping](https://www.chainofthings.com/cs3chainofshipping/)의 분야에서 사물인터넷과 블록체인이 어떻게 결합할 수 있는지를 살펴보는 사례연구를 진행
+* [참고자료(Reading Material)](https://www.chainofthings.com/readingmaterial/): 블록체인과 사물인터넷에 대한 다양한 내용을 학습할 수 있는 참고자료의 리스트
+
 
 IOTA
 
